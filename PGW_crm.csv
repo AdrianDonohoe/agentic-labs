@@ -1,0 +1,196 @@
+Subject,System,ticket_id
+tac incident l2tp retransmissions,PGW,8a9f91de-637f-4fa2-9fc3-9da839877d3e
+stale tunnel carrying traffic l2tp,PGW,f6fea05a-150f-4987-a33e-7ff6c5d6d382
+l2tp authentication chap md5 reject pap clarification,PGW,b8caa25c-f82b-4bc1-87d3-03db411e7cb1
+ipv6 pool usage fault pgw,PGW,ebfdd5a4-eff3-4049-8a70-150c90e02594
+err_pcef stats increasing measuring smapn,PGW,48627b04-f424-49d7-84c6-6bbd161fb118
+rulebase creation error exceed filter limit,PGW,d4d03082-3002-4b56-bdf0-0349eabf35b5
+using ccpf switch cdr,PGW,c430e262-3a58-44ff-b8cd-a69a4ffd4aa4
+iscm block fail please refer previous ticket ,PGW,48906be7-581a-4a1f-869e-9cecad05992b
+pgw incorrect user password radius failure scenario,PGW,831947e3-450b-470d-8a38-5c250053b205
+flt 7005 visible message history,PGW,f1f9f8a3-7fc1-45b3-96e8-d3a390af6ebd
+dns naptra query apn failing,PGW,1e419595-c220-47f2-9890-e874a1e27276
+pgw lena3 restart,PGW,9a06af04-bde7-4f97-b930-ffd92c5a4578
+threshold crossing alarm change request,PGW,7bd9cf72-d9d6-4da0-9b40-df0b7dbf1293
+pgw ims cdrs,PGW,848ce4c9-9081-4d02-ac51-90df7a6c727f
+lema cpu high usage syslog,PGW,0b3f4d9a-09ca-4ee4-8d26-1636be700db8
+3gppvendor id,PGW,ed8208f3-a8a6-4481-a8ba-672efab44d7f
+delete hang customers pgw apn disabled,PGW,3dfd7887-200f-412f-804a-9949c8d4a949
+pgw radius accounting request use class field,PGW,589f17b8-3af0-4681-86e5-453d99ca6d11
+pgw offloading subscribers ip pool hit ddos attacks,PGW,3385ddac-6f76-4d8b-bb23-7b33cd1f517c
+radius account server flapping several times,PGW,69f6fb13-d2bc-4866-8d9e-de9121bfbccd
+connectivity issues across pgw swedish customer,PGW,5aee389a-5730-4fa8-8e8a-a1b95e451cc6
+loss traffic subscribers,PGW,c52aaf2a-fa57-4240-be11-50d5cfa37ef7
+apn issue pgw,PGW,8fcaab98-0ce0-4f2b-9b0a-469ef18048c9
+pgw behaviour receiving diameter result code busy 3004 aaa server s6b interface,PGW,1fce1c1e-da33-4861-9d22-e067e126fd45
+pgw volte failure scenario,PGW,821b80f3-af8e-4c1d-8b99-65b4fbadea2f
+pcap file caused np_ovld alarm,PGW,7395cca0-2978-4c16-b28c-6ffb301571d4
+path fail alarm pgw lema1 lena3,PGW,e61a5740-0c6a-4f78-8403-1da91a275702
+a1661 internal resource limit f7007 ne event limit fault pgw,PGW,88a19507-8de8-44c4-8f80-6ce022aebd95
+packet lost pgw,PGW,b93ca617-19a6-49a8-a973-911a716f56f8
+pgw li configuration deleted,PGW,ad843b6c-b487-4ccb-9756-9bd9b72867b5
+total number addresses available ue ip pool,PGW,ce3c42c6-0a8b-4393-9e04-6272fb7cc0b4
+increased bact mob mvno net,PGW,ba65ac9f-840a-4735-8e60-0b5a4c115f24
+leda failed rebooting restart,PGW,1e9a53d6-82ca-4d64-b675-dfebfbc580ea
+ue ip range split treatment,PGW,b6827626-8fbe-42bf-8e33-072feca14f2b
+a1502 function fail alarm,PGW,1f0c94a9-bd8f-4c8d-8bda-8fc56689943a
+pgw zero ip allocation roamers,PGW,2bc82c95-6f99-492b-abfd-ff9c43330849
+pgw response zero ambr,PGW,f9a8ca55-a81d-497b-af32-d0f4df618a1e
+ip routing issues pgw internet gi migration tests,PGW,061d9bb1-7bf4-4e41-8b86-e300d1636a91
+traffic drop pgw,PGW,a368efb6-ab78-40cb-8d33-7bcfa539d6eb
+missing user location information gw cdr record,PGW,bce68806-7662-48e4-93ab-b9128438fe15
+pod messagin failing pgw responds nak w correction,PGW,1f69929d-bd9e-48d8-a0a2-8f20788c38c8
+pod messaging failing pgw responds nak w correction,PGW,3cb3974c-c69e-4f55-a248-f86b73c92f89
+accounting interim missing l2tp,PGW,4eed589e-bdbc-4a54-a948-4c19590452ef
+observed alrm dimm_halt alrm fan_halt alrm power_halt ,PGW,5446e293-8b5f-41b4-945e-2084e3359344
+check ntp source,PGW,27347ce5-19ac-460f-9342-605a27a79bf1
+pgw pgw df access fail alarm port fail alarm,PGW,74aa3f37-efbe-4b65-86fe-1b00c1faa1c3
+ntp server time mismatch pgw lema1 cpu0,PGW,fa951308-d1f4-4023-ad9d-d88ca44f58de
+pgw decommissioning,PGW,e50295e0-a3cc-4a67-aa95-072a398a4b7f
+l2tp ppp ack issue,PGW,5da29a47-1ac8-44e6-a3cf-bce2a8225779
+pgw behaviour gtp restart indicator increments following epdg failure recovery,PGW,881b1e4c-d151-4c62-a53f-ce8d94f818d6
+gtpho measurement errors rtrv meas ho item gtpho incrementing correctly pgw,PGW,180d523f-8e87-4d70-ac7a-ae20e7ae35d0
+pgw raid firmware upgrade failed,PGW,60f18bfb-6536-41e7-b8ab-c2f3bcac9fbc
+pcc including qci arp exist rulebase,PGW,4634093e-9f36-4ae4-8abc-5b83729a0e69
+l2tp sending unexpected answer cdn message,PGW,381d6573-15b5-4360-8593-02c31dadcfde
+pgw diwf ccr increase cpu load increase ccsm crash,PGW,e9e49e10-b787-4262-ad2b-94592cf0ce57
+pgw radius retry failing count react correctly,PGW,55a383f1-657b-4c9d-af17-381b4f90cda0
+mms charging,PGW,4ea79373-dea7-4832-b7fa-0ec3a2271e71
+wrong rating group used tvplayer,PGW,d244d54d-e16b-4f9a-97d9-aa4db81e5c3b
+radius spray issue apn,PGW,ba9ac151-e0d5-4b62-b353-7f143d75f3be
+a1803 raid controller failure,PGW,31ffca90-7802-47de-b4ef-7e445f9e5665
+a1605 memory overload alarm pgw pgw,PGW,7d33995e-3f3b-4f23-b3e2-960cdc4528db
+packet mirror ipv6 address,PGW,a8d5d7cc-dcda-4891-8d4e-bfa8a2f00c2f
+function fail alarm observed pgw,PGW,20cfc401-75aa-43b8-a415-cf3669116399
+pgw bearer activation per sgw counters,PGW,169851e1-c407-424a-ab31-6d5b4c7063b1
+sa3 1013 arp table populating broadcast pgw interface resilience failure,PGW,7628b864-f828-47d7-bf5d-ea56c70b53b0
+pgw a1502 function fail alarm,PGW,135f4636-d58e-4c1e-9888-ebaec6ca745f
+impact changing radius password,PGW,af54c5fc-3398-4b6a-9770-a0844ebf7ab2
+faulty leda card need sent repair datacentre,PGW,51264e7a-6c63-4c53-8ca7-91e430c400c8
+pgw ospf lsp incorrect,PGW,64bd31fe-a99a-40a0-a482-d5994bac893b
+disk 004 bay 3 operational state raid,PGW,1e9bb651-eaea-435e-82a9-7af9a92f3f50
+observing major memory overload alarm pgw,PGW,56e21369-e319-4d75-b132-dad3fdc5aa99
+backup working,PGW,02566a53-609e-4f4e-ae87-339a1f5d912f
+sessions pushed active apn id,PGW,46551868-a6fc-41ac-9b68-b7bd841e7708
+pgw sending l2tp incoming call request icrq retransmission within 1 second,PGW,efe1c02a-a992-40f6-9406-d475bfd6afdd
+premature session release iot customer roaming 4g network,PGW,3d015b32-bae3-4492-86b0-eb751747bf1c
+dku status disable,PGW,e6d535a7-86ea-4d0d-8d93-4e8c8b38daa7
+restarting lacm block clear 1661 internal resource overload alarm causes drop l2tp sessions,PGW,26f66e28-79cb-4c8f-af2d-1891ee00bc8c
+pgw rtrv call inf hanging sessions output issue,PGW,299eabd6-6069-4129-91f2-e58d128b92e1
+double wildcard dhost,PGW,1377d66e-2b33-49b0-96f4-31cbe976dbbe
+dhost table ips duration,PGW,3e496ff2-2cfd-47bd-996c-072cff1be962
+lena0 node abnormal state,PGW,c398ea5d-def3-43f9-a05c-bf4873012ea3
+cdr transferred generated mvno revenue impact,PGW,c8d9cf77-b226-4857-8b98-dc4a2104b9ef
+pgw sends f outbound cdr imeisv received create pdp context request,PGW,863ccd5d-56d3-46f3-93fd-9a82dd504a4f
+url redireciton working funds certain urls,PGW,98d47b05-4ac9-4c1e-bc9b-5c13c5409ce9
+a1605 memory overload alarm,PGW,dab1474e-f0d5-4fb2-b938-493b31a0a768
+a1502 function fail alarm leda0 leda1,PGW,06a3d496-3227-49fe-ba2c-400f139df6e5
+balance url redirection behaviour,PGW,f5339e09-f174-4138-873d-0b1791454226
+unable create 12 pools pgw new apns,PGW,36e2a4d9-70f4-4f75-8af5-fcd5657a93b8
+stop radius message reporting full amount data usage,PGW,ecbe62d7-16a7-4784-a690-b55627fdfe54
+a2514 radius authentication server access fail alarm,PGW,905faf18-b058-4639-9e86-c8db51c2d58a
+ftp longer working sw upg,PGW,88d15fab-6fc6-40f6-ad13-ead65b69ba3e
+lena 2 function fail,PGW,ccf5aee2-fde8-46d8-be7e-be1964926d91
+observing drop session call count pgw,PGW,7d89f420-9997-485b-bdff-35845bc417cc
+login unable open,PGW,9b7e8fef-d6f4-42fb-af84-464e9e6c2b93
+pgw leda restarts production network,PGW,0fd96de4-cb8c-4c44-b05d-f7b133c0941b
+lack bsc option rtrv meas pne command,PGW,ebc360e6-3a8f-46b1-bfaa-bf1d5efaa128
+possible disable rat change event trigger pgw gx interface,PGW,d1eae5c7-8a5f-4a14-af4b-60c4fc7217b1
+difference pgw rtrv meas l2pkt short detail reports,PGW,8d876c63-ed61-42fd-b515-160d3d57654f
+take 3 minutes inact_tout value pgw deactivate inactive bearers,PGW,177737c9-fb1e-454e-b0a9-343694054b4e
+qci modification clarification based reply ccr initial update,PGW,7a77db1d-a948-44b6-9f4b-14220dec84fa
+incorrect default values pcc creation,PGW,71ea1fc0-bc33-4c5d-94dd-4c2de830ba65
+wifi lte handovers iphone6 7 failing pgw despite correct pgw selected mme handover,PGW,3e40ab91-4df7-44c0-819c-4d86bdd894a3
+wifi lte handovers failing iphone field testing pgw initiates ims bearing deactivation handover ccr pcrf,PGW,2f639fda-c5d7-43ad-9c2a-18c5e3b41a10
+create session request timeouts obeserved s2b interface epdg p gw,PGW,f5fe090f-cfe4-4db9-97e8-4d97a172488d
+dhost functionality cname,PGW,778d8975-ab21-466f-896a-d2ab0051e4c4
+pgw raid controller alarm,PGW,8da175bb-82e7-44a3-82c2-ce539702663c
+pgw oat 12006 protocol status tl1 lema0 reset reset button,PGW,0f467157-12ff-460b-aaf2-5ddc8c55242b
+pgw gw assignment dns addresses via radius,PGW,cc044c5b-30e0-4104-98cc-fee4e3e32f32
+a1606 network processor overload alarm,PGW,70a06130-70d9-406e-aff6-f562922b95e2
+fan replacement,PGW,95411d3b-c3e2-4e35-8d89-e3eddb3751ed
+pgw rejects modify_bearer_command,PGW,3b7f5d8d-245b-42e9-91f3-e32af8670bbd
+measurement data retureded radius counters,PGW,70fb730c-5067-4ae4-961b-8a1d57929583
+ue ip address use time,PGW,cbb8f403-5fab-4326-99b2-d64e179fff2e
+pgw minor internal resource overload alarm cpu0 cssm msg_que 0,PGW,64ba4731-3777-47c5-98de-e00432175582
+pgw network processor overload alarms leda4,PGW,cae4f14e-6e9e-437c-8ae7-1bd57c1a4bf3
+unable see trace information pgw,PGW,9ccb44ec-66fb-4600-8152-7c67ddb0419d
+a1605 memory overload alarm pgw,PGW,4a6daba4-df3b-44cb-8ba9-1be5e9a5948d
+unknown pdp address pdp type,PGW,937733da-bb8f-422f-b00e-42cd5ed92918
+pgw l2tp failure ssrp,PGW,1716433f-5da5-404b-91a5-94c5901ab2de
+able login oam vip,PGW,7b5b8b48-1cdc-4e1c-8ddc-29e9ee5f1975
+users receiving syn ack pgw,PGW,ffa05482-e0a7-4d68-9e43-641eb0bdb959
+gtp sequence number mismatch pgw pgw,PGW,aa902dd8-8566-48fb-8994-c4e54fe8fe56
+lte inbound roaming testing production network test sims unable register lte network,PGW,a6567097-7c20-4dcf-8397-2e4c435fa11d
+unable modify pcc rule,PGW,76b77afa-0407-44be-a8c4-915ce0d72359
+l2tp lacm threshold breached pgw,PGW,2e8b86c8-f892-4220-954f-850c07e1a379
+l2tp authentication chap md5 reject,PGW,a91ccb8b-2cfd-463c-8f29-b8898eaa65bd
+ike phase 1 fails different vlans,PGW,488e692f-38ec-4116-9290-8d1157eb7a76
+rtp gap 1 3sec ho lte wifi,PGW,021fa131-a6fe-4da5-b795-e430179130fd
+pgw neec inf inhapn conf interaction,PGW,c9b9e8a7-61bc-4ad2-b87d-8556b4ca73e2
+increase qci 8 eps bearers following introduction iwf,PGW,97b04aef-8e2a-4d21-8b41-0d0f0cc9bc05
+pgw restrict inter handset ue ue communication apn,PGW,c9ac6dbf-c510-4568-b8a4-eb931f48f247
+pgw s2b bearer deactivation success rate low pgw following epdg launch,PGW,094cf0a6-a0d2-46b7-80ae-62349d449054
+mismatch rtrv meas apnc apn item bear,PGW,789466e4-ef4b-4fd3-b9f4-ee393aebb66d
+pgw v2 5 0 15min pm csv files failing intermittently,PGW,7f2a21d8-8086-4088-903c-de6bcd8c419d
+pgw oat unable log using user systest,PGW,37510c77-f475-4621-97a6-3f431196b320
+l2tp cdn behavior query,PGW,04cb2b2c-fb56-4545-98dc-df702a7f6d14
+pgw session reject 3g outbound roamer gx signalling issue,PGW,480b8f6a-ed08-458c-8ea6-b1c23d86643e
+l2tp call cause err_etc,PGW,07e41bb1-6adc-4f2a-81d6-9c6566c0d707
+pgw sending ccr without waiting answer ccru,PGW,93c0c3f6-bc49-4d3a-8bb7-f11ec1c854d7
+pgw sysfunc parameter 337,PGW,605aa711-338d-45cd-b914-56514dea4faa
+pgw sudden traffic ip pool drop,PGW,9d1f8fd9-4870-48bf-bc39-ca2ed5fcfca2
+inconsistent counters dedicated bearer activation,PGW,e93d386f-f4b4-4889-bd45-5e0077ebe408
+f7005 call processing fault,PGW,e4f302e1-c8a3-4b76-a5d6-636bd01d4447
+a1161 internal resource overload,PGW,e48fe0c0-004b-4850-adba-4e2b4ea6a265
+follow traffic throughput two ip pools internet apn pgw,PGW,6424f756-7387-4cfe-b30f-7914eca97936
+epc unregistered_static_ip_address,PGW,6737c895-bddb-4224-95fe-becce128d169
+mns overcharging url pgw,PGW,ecbcb1b1-8847-43c5-ba98-17e0ee8d5917
+pgw raw cdrs,PGW,f4eb227c-5921-416b-a6b9-9c7a3edce2e9
+resources available create session response,PGW,21055344-e929-4583-bf5e-c7d1e75a5cf2
+observed major raid controller fail alarm pgw,PGW,ed9b4ac7-820c-46f2-b99f-c0ea3b39be48
+linux haclient user,PGW,1f4ba112-c216-4335-81b4-e99f7a00e085
+zlb lns repsonse hello,PGW,533b5eb1-f034-44e1-b710-16174004a545
+pgw int_rsc_ovld 1661 alarm,PGW,6f59861d-b98a-4db0-bb34-4d0550d7f2cd
+ipsec behaviour ipsec tunnel goes,PGW,e126e20c-6abf-4bd8-9f77-269e306db601
+pgw lena2 restart,PGW,fb0bb6d9-1219-42be-a3f0-c76bdaa639e2
+lte non 3gpp handover stats reporting pgw nodes,PGW,0c7fb320-efa2-4fc3-9689-d59e75234596
+leda cpu spike,PGW,72261074-3504-4300-8330-51ee56778b6c
+leda4 cpu_0 pud ul bearer_tx rx lower 70,PGW,15ae4a15-8050-4e00-b163-ac53128ed0a7
+mvno unable use tethering,PGW,26f5be7a-bdcb-4227-8132-4f8d40fb161a
+pgw oat 12006 protocol status tl1 cable connected lema1 lema0,PGW,9e916b79-2000-4092-8639-24b322f63a30
+unable update rule bases new pgw sw version 2 6 0 0,PGW,16ae2f23-83b2-4a05-9e0d-4d20f687dc01
+12 subnet ip address assignment usage apn,PGW,e90e8178-6da0-43cd-95af-f323ea54b264
+bearer activation failures apn pgw due mvno customer,PGW,5ce56f08-89e1-46e9-b864-17c983c12b50
+ntp working,PGW,adf00e40-9fa5-4220-bc18-35be8e323202
+apn degradation one pgw,PGW,a833ccb5-d5c7-4147-b28e-425900d152af
+lcall_tout_act change disconnect none,PGW,5c22bc8c-055c-464a-8a99-2590261163db
+apn  degradation err_incomp,PGW,7f0f0d75-2653-483d-97fa-3ad9af8fec3f
+pgw a1800 disk limit alarm leda1 cpu1 storage,PGW,127b8092-5738-4a3d-8a98-9059fcddaac9
+pgw pcc rule clarification url dhost,PGW,597e6670-4770-478e-8184-7dfe2411007f
+a1502 function fail alarm,PGW,88ed9365-bfd4-4004-8a92-d042d8aac5f8
+function fail alarm pgw leda1,PGW,4bd07d65-a1ae-449b-80ec-e442931fdab9
+a1161 internal resource overload,PGW,0ef4dcbb-a2f2-4603-ae13-e02a544ba912
+observing pdp failure pgw getting system failure,PGW,c57e6632-32ad-4a11-8211-a2da9770d237
+pgw radius attribute session used,PGW,8561b36d-4ea4-419d-9a35-8927ae88b250
+pgw l2tp incoming packets dropped lost,PGW,f3d80d8e-6886-4b78-ba62-359fc64af3aa
+create session fails l2tp apn,PGW,b63ba607-b027-42b8-8da8-ce9e166abbeb
+pgw a1502 function fail alarm,PGW,06504991-57ad-41ad-b3c3-889ff37d6384
+observed pgw lema0 memory utilization gradually increasing 2024,PGW,c68ecb21-2e1c-494f-9c94-4c974ac3c91e
+msisdn pgw cdrs,PGW,5f93fbe6-e25a-4b89-ae7b-8bb924795ef0
+pgw hw alarm 1803 iodev 0 50 raid0 controller_a,PGW,cca5f898-4bc9-4428-b783-6435b6946e3c
+measurement,PGW,0e6f2580-b6c9-4519-a72f-ce62ec04c790
+pgw responding node alive message,PGW,188e43de-fd30-4e71-892e-3aaa878822ca
+debug txt query,PGW,f49b809c-1e4d-4e48-99ba-7dbec5d0a806
+communication 3 pcrf changing config  pcrf,PGW,afd932df-c106-4759-9211-ba91c810fe52
+observed function fail alarm pgw,PGW,37259466-c50f-4009-a9be-3813be4f205a
+increase tcp restransmission ims apn,PGW,fb01b35d-80a4-4faa-8afb-a3a883dadbd8
+ggsn initiated pdp modification degradation,PGW,7e0af4e8-8b0c-40ca-8bee-59373daba255
+gy activaiton corporates issue,PGW,144e8421-e781-4a4b-ba75-7a5aacf65a4a
+pgw a1502 function fail alarm lena2,PGW,8fe07c66-a4f6-4988-b3b1-c18a5fbc4339
+test apns stripped radius gx gy activating,PGW,0d89a5c7-84a2-45c3-8db6-a801b3d46267
+pgw customer l2tp call flow lcp renegotiation,PGW,799e98f6-fdb7-4450-be37-6e0e2fcd7f62
+observing alarms,PGW,80308912-3b49-4199-b6cc-2013942b5886
+pgw cdrs processed mediation due extra tag 43,PGW,596a6ed7-39dc-4e89-87e5-fa14ab946df7
+ntp server time mismatch pgw lema1 cpu0,PGW,a66fcccf-7888-4ba4-9fca-e6ccb12c5adc
+lns access fail alarm l2tp,PGW,cc9eb132-dc85-4514-b61c-c9acaf5f3374

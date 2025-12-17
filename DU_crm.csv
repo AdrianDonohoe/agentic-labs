@@ -1,0 +1,561 @@
+Subject,System,ticket_id
+REASON = DBI_ERR_DN_INVAL_CLASSNAME from CHG-UTRA-CAR,Distributed Unit,de06846d-21a8-4cb2-9db9-de04e813a47f
+IM1219111_eNB_LUA_SLR4.5P0_Sleeping cell issue on all 3 LTE1800 BAND,Distributed Unit,bbbb7edf-b3f1-496c-a29d-f384d2f372fc
+SLR4.5.0.P1 - Interfrequency Periodic ANR - EUTRA-PRD -> Purpose StrongestCells CLI changes were not reflected on interfrequency ANR measurement configurations,Distributed Unit,0a22f65b-4db8-4764-a2bd-ada5a720cd73
+IFHO 800-> 1800 enabled after SLR 6.0 upgrade,Distributed Unit,b11270ed-ab53-4993-9588-c8839aa5dcc1
+SLR4.5.0.P1 - CA 1800/800  : eNB activates CA but delays data scheduling on SCC until 100-150 ms later,Distributed Unit,23ac113d-d85f-4701-b49d-96c72233944d
+SLR4.5.0.P1 - CA 1800/800 -measCycleSCell-r10 : sf1280 present in RRC Reconfiguration message,Distributed Unit,e66bf2d5-29da-4aea-9bd8-1b2b93e52033
+Restoration function doesn't work as per design impact doc,Distributed Unit,6071594a-7f4b-4183-834d-759db7662e4b
+MRO-012-B feature counter (TooLateHoRlfBeforeTriggeringAtSetup) doesn't peg,Distributed Unit,772f54fc-6d99-41b3-a0d0-5c14b8f07440
+EnodeB in cyclic restart mode post SLR6.0 upgrade,Distributed Unit,319a5d32-c777-4443-bebc-8b9a74f81fbf
+SLR6.0.0-Idle UE distribution feature does not seem to be working,Distributed Unit,6ab59dbf-4749-4792-a02c-4114fc1bd670
+"S1AP Reset on the VPN1, even though VPN1 never failed",Distributed Unit,50be36a7-9e7b-45de-aef4-3f211cb2a266
+CA 800/1800 Fairness Low Throughput,Distributed Unit,2023096f-b13a-4760-af98-11996f7d4b16
+3UK_LTE_eNB_SLR 7.0_LBand sites_RRH function fail alarm intermittent for all RRH with SW notifications(eccb=ACT & eccb=DEACT),Distributed Unit,4a89511b-95c9-472e-91db-ee983eef577e
+aPeriodic Reports sent with MCS29 increment incorrect counter (LUA),Distributed Unit,e3773020-4ddb-4e92-9ccb-3d86dcc65285
+XML file size have been significantly reduced for SLR7.0.0_P1 SW without any change in ManagedNRM(currently set to SLR7.0.0_P0 PLD filter) file,Distributed Unit,010c0bee-a321-470e-a06c-3aee42dd816b
+LTE Acc Degradation under the counter Erabinitfailnbr Cp Cc fail & Erabinitfailnbr Rrc Sig To,Distributed Unit,d89c1c03-7955-43f4-a2e7-1f212be577f4
+Load Shedding not working.,Distributed Unit,b20b08b8-628c-412d-ae8d-b802600239a2
+Decor: Samsung eNB is using same MME all the time for IMSI attach irrespective of MME code configured in DCN-CONF,Distributed Unit,69829c99-7c15-4ae8-b2e9-6f143d214c61
+SLR8.0.0_P0 doesn't allow to download firmware,Distributed Unit,b33db3a4-058c-4ee1-892d-48777209ddad
+Samsung ENB Integration testing with Nokia SeGW using PSK,Distributed Unit,391e138a-e425-496b-afff-7191eb94e36a
+WAF027 & NHM030 Cell disabled on L1800 Band,Distributed Unit,85e32f55-0ec5-4afa-994d-1323c0f9c5a6
+Maya SeGW - Samsung eNB8 integration fails due to incorrect IPSEC Integrity Protection,Distributed Unit,ba5c2f83-8496-4110-b45e-342838689ae2
+LTE DU0304 Performance L18,Distributed Unit,379e8feb-18b7-4a3d-b034-5cf7cba80e89
+3UK_LTE_eNB_TMS034_eNB LOADING ERROR,Distributed Unit,41ba14f2-42ed-4bf0-ac9c-11aef7a34660
+UE Category Count has increased after the  SLR8.0 Sw upgrade,Distributed Unit,b93d2d6f-237e-4ab7-939c-2be46cb67ab4
+Maya PKI: 3UK activated the ENV parameter MODEAHESP to AES256 and it appeared to have NO IMPACT,Distributed Unit,8fa73942-a9ae-483c-8db9-ddf89acd188e
+Nokia SeGW PKI - WARM STRAT events on eNBs connected via Nokia SeGWs,Distributed Unit,3b53adab-97bd-4d17-8145-7186772a5227
+DU0985 LTE Intermittent Down,Distributed Unit,cc165151-b5ef-403c-aa71-4a2ef6ae16af
+3UK_LTE_HH0LSM05_BRW053_ Site Down post Hub Migration,Distributed Unit,91305749-e5f1-48f6-88f3-b760260bef5b
+S1-MME connection not reestablished after link recovery,Distributed Unit,3df2435f-ce87-4521-9c6b-e627c1fff11e
+High VoLTE ERAB Drop Rate,Distributed Unit,c810b848-deb7-4cee-9cb0-f84261dfc40e
+Samsung eNB does not reply with HORequestAck with no apparent reason,Distributed Unit,e0454f11-fe45-4b84-8b78-4b4d438802f1
+LTE WT0130 high temp,Distributed Unit,e521f031-1751-48b5-a0c1-154906e258ad
+"OLN LAB: FGR-BC1201, NR Data Usage Report : Missing IE / message ?",Distributed Unit,4804d83b-5e0a-4970-8390-1b4b3d7b638f
+[SLR9.0 Orange Romania Cluj-Napoca][Blind IRAT Mobility to UMTS not working ],Distributed Unit,11fd181e-9867-4b1b-8e0c-25a5a0040e34
+SVR19A OLN: eNB does not sync with 1588 clock source,Distributed Unit,1778cc40-e511-4e13-8954-61319b776945
+3UK_LTE_ Site not coming on air due to Loading Error and Protocol Status SNMP alarm_SFD070,Distributed Unit,abc263b5-8748-4e5f-ae2c-081f6dd084b0
+3UK_LTE_RUT024_Intermittent cell availabiltiy degradation,Distributed Unit,b4063fd3-9cbd-4173-959f-804298f7439e
+[SVR19.A.0 Orange Romania Cluj-Napoca]-[NR Service OFF]-[FMP CPU Load Abnormal Value] Possible GCB1 issue?,Distributed Unit,0e850144-5db2-4e65-a465-55033032b048
+[SVR20A][Networks! Poland][Erab Setup success rate lower post swap],Distributed Unit,a9001aa5-a22c-4c65-ac17-d8a472502461
+SVR20C Poland Trial: Duplicate EUTRAN neighbour entries observed,Distributed Unit,42262565-2646-4097-999e-861ec3ecd986
+SVR20C Poland Trial: eccb refork issue on eFix2.1 + lubp + CpSoLib,Distributed Unit,3332e986-5a80-40df-943b-fffa8ddc9bd3
+[Play Poland Field Trial][SVR21B Orange Pkg][eNodeB][DSS Cells become unavailable from time to time with Service Off alarms],Distributed Unit,272dd5f4-0089-4d4d-8cb7-1176585127db
+Site failed to come up after Maya Migration,Distributed Unit,a069b59e-bb1e-4c18-bdc8-69b42995c33d
+H3G SLR9.0 P1 - Some Total PRB Usage family counters not pegging for UAMA,Distributed Unit,e6dfc98f-9b1d-473d-a58e-5bd0e09cc7fb
+3UK SLR9.0 P1:- S1_TUNNEL_GROUP_ID  (MAX_TGID_PER_SYS_CDD),Distributed Unit,cd6b9302-0b99-4bdd-8e85-fc32bc729d14
+VFUK_ENB_Logs,Distributed Unit,9f4af889-009c-4af6-9594-5d6d7b2bcdef
+[분석지원요청] Volte Call 시도 시 수신측 UE로 SIP Invite msg가 전달 되지 않음.,Distributed Unit,68299953-cdaa-48e7-9b5a-e8ff6876652f
+Default Password change FOA,Distributed Unit,e16f3ba8-4cf6-4f34-962a-e7ebcf4aef9f
+Certificate Alarm in Samsung eNB,Distributed Unit,7a05006d-582e-4a1d-904c-94d8466ceaf1
+RCA investigation for 419 Samsung Sites,Distributed Unit,bb871d2b-ecd9-4e37-9e2e-f7ed8575ace4
+[SVR23A O-RAN][VFRO ORO Pilot Romania] KPIs degradation after site reset,Distributed Unit,cbb935ad-8be0-4def-be6f-052f86de3b03
+"[SVR23A O-RAN][VFRO ORO Pilot Romania] ON VFRO cells QCI1 MME abnormal releases, non-EUTRAN generated, with no sub-counter pegged",Distributed Unit,38d2dfb7-5706-4bef-8287-29ab50031c76
+[SVR23A O-RAN][VFRO ORO Pilot Romania] RRC Setup Failures and ERAB Setup failure,Distributed Unit,31c72054-fd20-47db-b6b9-5f2007ba7205
+NR Cell gets Barred while EN-DC attach with Qualcomm Chipset,Distributed Unit,12845487-e1d3-497b-a927-ca08c7084cc2
+dpp function-fail alarm_Liveness probe failed_/VOS/2392OL_V_BE1746_ORAN_GL_vDU2-DPP[0],Distributed Unit,3bfe9242-0991-483e-860c-6314b799695e
+[SVR23A O-RAN][VFRO ORO Pilot Romania] High number of TCH drops,Distributed Unit,1f8828bc-e620-4c57-be6d-4d884c7ab788
+[SVR23A O-RAN][VFRO ORO Pilot Romania] High number of TCH drops,Distributed Unit,51d5b7b6-9bd8-4c84-b25a-d6ebdc0cbf62
+[SVR23A O-RAN][VFRO ORO Pilot Romania] 3004TT_O_CR0383_ORAN_GL-DPP[1]/MIDHAUL_PORT[0] dpp port-down multiple time and auto recovered,Distributed Unit,96bc1f0f-0526-4e49-8fd6-898fb8629e5f
+[SVR23A O-RAN][VFRO ORO Pilot Romania] dpp port-down and rmp-port down alarms triggered multiple times and auto recovered for site 6012TS-TEST_ORAN_GL,Distributed Unit,56352da5-6d83-4773-a59a-7f5c09b32618
+When NETCONF session between UADPF and ORU is closed alarm on  /VOS/5437BR_V_CR1521_ORAN_GL/ORU[0]-ORU[0]  /ORU[1]/ ORU[2],Distributed Unit,0a641728-d5f9-49ed-9887-78fe3ffe2ad0
+Samsung Intra eNB Mobility degradation - impact to VoLTE retainability,Distributed Unit,ec1fe0cd-e1f4-44cb-8982-9461b28d26a5
+"File System threshold exceeded ; threshold 80.00%, actual 83.25%._2396PO_V_CR1516_ORAN_GL",Distributed Unit,18a63191-bbc2-4561-ad98-bffa0f14075b
+CSFB to GSM not working,Distributed Unit,c2acffbd-9830-48b0-8777-25d0269b7799
+"DPDK(resource) sw-unit-deactivated/activated , 2538PO_O_BE0389_ORAN_GL",Distributed Unit,9f8200ff-f087-4eca-85ee-0bdf5e98fbf0
+CBC Alerts low success rates(Samsung Cells),Distributed Unit,6a2e5d14-4305-4514-9787-3ba16dc71c45
+Unable to change DL EARFCN values in CELL-IDLE_CRQ000005402018 Samsung L1800 20Mhz Upgrade Plan Mop-UP,Distributed Unit,b5551fef-9617-462e-bfd6-6a86119fe684
+ENB32 Unable to attach and make Calls,Distributed Unit,c2093301-edac-4aef-98a9-b8ab64203b83
+SAM eNB-136 routes TAU to wrong MME  -> TAU Reject (EMM cause 9),Distributed Unit,b3d8b216-fb75-4710-bc01-d8fa6854a2de
+Alarms reappearing on site POO012 after hardware replacement,Distributed Unit,bb37c139-55ce-480c-8507-c53eb505e18f
+Intermittent issue - Repeated RRC reconfiguration messages from eNB with same RRC configuration message/contents.,Distributed Unit,347f5c1d-1f29-4bbb-8e0a-ef13bb0260a4
+Issue with bringing eNodeB live (SW PKG doesn't download),Distributed Unit,349edd14-b75c-480d-8f52-b508713d49dd
+Inter-eNB RRE feature does not work for the capacity based CAC failure with CALL_CAC_THRESH,Distributed Unit,c518333e-b472-49ea-b944-3f87ed4a49b2
+SLR6.0.0_ALD Power Feeding Control - documentation query,Distributed Unit,7dad829f-99de-4016-b3a0-c0c78acb05e5
+SLR6.0.P0_Ontops - ERAB Release counter calculation - TS1660FD,Distributed Unit,686192da-fdee-4d4d-b0be-f2084cec7f17
+SLR 6.0 carrier aggregation Scell failure due to MAX_DL_CA_CC_NUM value,Distributed Unit,b7191958-8c40-498e-949e-bd1d10830ed4
+"failed NAND FW upgrade, Service Off Alarm",Distributed Unit,721a1f40-ce37-43a9-9137-26179a297138
+SLR4.5.0.P1 - CA 1800/800 -  ScellAdd not Rejected by CAC,Distributed Unit,2007627c-4130-4481-9796-b7e1ac2ec559
+"iRAT ANR, new parameter GAP_RELEASE_FOR_REPORT_CGI",Distributed Unit,ac603aae-391b-4640-96a9-9b6923e1113f
+SLR7.0 secondary VPN down,Distributed Unit,3cfbb7e0-e9c3-4561-80b6-7d67b6a665b0
+Unable to update L9CA card FW for site SDL028.,Distributed Unit,cb64cec9-0908-4cd9-bb63-993405a53f5e
+ECP CPRI FAIL on LCC2 following SLR 7.0 upgrade,Distributed Unit,db648c8d-d01b-46cb-bc46-d4673d6e1717
+TTI-B with A-DRX doesn't work,Distributed Unit,76b8324e-1bc0-4254-8c92-7ec928464827
+Packet Delay Counter Family – Implausible delay values,Distributed Unit,c762b3a1-44c0-4570-b92f-d5a1666b0ba3
+eNB SLR700 SW Upgrade Fail,Distributed Unit,b5aed88a-86a5-4239-9670-adc21af9f5d4
+"NAND FW Error, Service Off Alarm",Distributed Unit,ce6bc455-969c-433d-a987-9c44246cc4ae
+CA 800/1800 Fairness Low Throughput(UAMA),Distributed Unit,3678827e-a948-4e75-a20e-f85f4ec568af
+"3UK_LTE_eNB_SLR 6.0_NWI023_RRH function fail alarm intermittent for all RRH with SW notifications ,Site-NWI023",Distributed Unit,305ca760-9699-4cf1-8e96-0231b3bcf2c3
+3UK_eNB_SLR7.0_ABS065_RRH FAN ALARM all Cnum's,Distributed Unit,c0789492-10cc-4d86-9ed3-f86e4c1f3e1d
+3UK_LTE_eNB_SLR 6.0_HSW004_eNB failed to SLR 7.0 software update,Distributed Unit,6fb77acc-778d-41fd-8a17-971006b4228d
+3UK_SLR 7.0_LUA_RUG016_Sleeping cell issue,Distributed Unit,36f4af67-35f1-4138-b772-9cd2f40dd40a
+SLR7.0.0_P1 ULCoMP: No UL throughput gain for UL FTP Data call with ULCoMP activated on L800 cells (UAMA HW),Distributed Unit,24084293-ee20-40f5-821d-1b3628192b80
+Sleeping cell issue,Distributed Unit,f98a6163-7e29-4fd7-a40d-4773c7f6e69a
+"RSRQ Trigger - SRVCC not working, B2 not configured with RSRQ trigger PLD changes",Distributed Unit,63d6ca94-b730-4eab-a299-67ef8ccd5135
+Testbed eNBSLR8.0:CPU Usage slight increase on UAMA after upgrade to SLR8.0.0,Distributed Unit,51534484-7b40-46d0-a914-6987b81505e0
+3UK_LTE_SLR 8.0_eNB TX TF power low & Cell disabled without any alarms in L800B of UAMA sites,Distributed Unit,99b5dce1-f270-41e3-b03a-ecc08eabbdbc
+3UK_LTE_SLR 8.0_Ald configuration command is not working_RTRV-ALD-CONF,Distributed Unit,3bc5466a-6044-4772-bf0a-6942d378250e
+Chariot:Inter-eNB RRC Connection Reestablishment Reject between Huawei eNB and Samsung eNB and vice-a-versa,Distributed Unit,a8091e7a-9556-462f-a1bb-7e5970f2b4bc
+The first SCTP INIT to a Maya MME is sent via VPN1 when it should be VPN0,Distributed Unit,45e1d8cf-af5d-4993-b89f-79d3a275cb4a
+Intra LTE HOSR drop since 19/03/2019 in BM0LSM01 ( After LSM Disk Management changes were applied),Distributed Unit,144ab69c-1203-4a60-8e74-5ad011481b5b
+Inter-vendor RLF Triggered HO during RRE,Distributed Unit,04eb70ab-30c6-4f4b-bcdb-4619fd76167e
+[SLR9.0][Orange - Cluj Napoca][CSFB not working],Distributed Unit,227f34e0-d8c2-4ef7-b525-c9a60f24c794
+Site not coming on air due to Loading Error Status - CHE025,Distributed Unit,2dc59155-bd21-4900-ab81-1bad391d3ddc
+SVR19A OC2 OLN: NR Downlink throughput not reaching SVR18.3 values / Mercury targets,Distributed Unit,d4c21045-55b9-426d-bfeb-e9aa8d0e15e7
+"WT0010 - LUA Swapped , L18 not recovering, possible LCC2 issue?",Distributed Unit,9622ca6b-238f-4ce6-88aa-da8a02391fc3
+L1800 UAMA cell performace degradation,Distributed Unit,fb0b971f-ac38-4420-b7f3-4d506aadfdea
+SVR19A OC2 OLN: NR UL Prescheduling no improvement in ping RTT,Distributed Unit,d76860c2-34aa-42ca-91eb-6c9691641e67
+3UK_LTE_ LUA Repetetive Fault _ ERY025,Distributed Unit,bbc63279-6d84-44a5-80e3-67242e8c414e
+3UK_LTE_ Intermittent Service Off Post SLR 8.0_P0_02 upgrade _ 1st July 2020_CRQM00010694759,Distributed Unit,220e0435-5772-45f2-bf3e-50513e339407
+NetWorkS! (Orange Poland) S1RESET and RRM failure seen on TMPL cells only - high volume.,Distributed Unit,a72c031f-a9bb-45b8-be43-3e46561b6212
+[SLR9.0.0/SVR19A P2][Orange Romania Cluj-Napoca][Site CL0756 multiple alarms and service-off],Distributed Unit,5163bab4-767e-407b-b22a-6a0767f1611a
+SumActiveUEDL QCI8 - huge increase in counter value,Distributed Unit,58074d57-b01c-48c1-a48a-bdb737f28c70
+SVR20C Poland Trial: Issue with DSS counters DLScheduledTTINum,Distributed Unit,ef3f10d3-5c95-42c7-a880-384f667363e6
+H3G SLR8.0.0 P0_03 FOA - FW Verify NOK after eNB upgrade,Distributed Unit,17ad1665-54c2-4610-9b1b-665667077b03
+3UK:SLR8.0 P03: MIssing/Incorrect PLD in xml files to LSM (NBI),Distributed Unit,351f1871-f25c-4430-b999-9e9bd4e05404
+OLN LAB: ucr clock-source-or-path-fail alarm despite ucr leaf showing 10+ sattelites,Distributed Unit,2d16ff43-a7c6-4814-867d-cf74a2c64c86
+[Play Poland Field Trial][SVR21B Orange Pkg][eNodeB][Carrier Aggregation Scells with very poor scheduling],Distributed Unit,d8b1e2c8-f078-40c5-afa4-72376e5bb11e
+OLN LAB: Fluctuating throughput in good RF,Distributed Unit,3d2c044e-a615-4ee9-a208-a7d116753678
+"3UK SLR9.0 P1:  IRAT PSHO FAILURE:  HandoverCommand no response from Nokia EPC, what changed?",Distributed Unit,d3eab39a-1f79-4c3f-a1e8-4965d7e941e6
+3UK SLR9.0P1 InterVendor RRE (RLF HO) is not working,Distributed Unit,b91a9fbb-f0dd-4c87-b70a-4c982498d380
+[OLN lab] fcp application-block-down after many sfn-fail alarms,Distributed Unit,d2bf885b-56ba-4de9-b612-436e5d1c5f38
+3UK_LTE_Cells down with multiple alarms,Distributed Unit,d562b1f8-e3d0-4a05-bb53-7934f93f9146
+3UK SLR9.0 P1 FOA#2(RRE): Call Drop and ERAB impact,Distributed Unit,07d47611-d9db-4e62-a85c-e860baacee43
+High Inter-eNB RRE Failure Rate 90%,Distributed Unit,faf9bd71-de37-4940-95d4-fda296fc3f5c
+DU0432 LUA site down after works,Distributed Unit,187ba83a-3179-42cd-8de0-6edf12d03c9f
+Node Not sending CMP requests to NCM,Distributed Unit,4bdc3b40-aafe-434f-bc8e-db4bba45dc6c
+DOUBLE_CHECK_RSRP_RSRP option not working on A4 Event for SPID HO,Distributed Unit,c0f0f283-0afb-44c1-9878-4f94481c6bed
+"VF-UK Lab // SVR22B-R0202 & SVR23A-R0100 // eNB, LTE B1 // Constant RRC Connection Reestablishment Issue",Distributed Unit,bd7b76a6-810e-455c-8499-8c31b43ef8c7
+[SVR23A O-RAN][VFRO ORO Pilot Romania] MAC binlog not capturing in CFMA path,Distributed Unit,35d93778-b416-4b67-bb6d-935dad18edf1
+[SVR23A O-RAN][VFRO ORO Pilot Romania] Intermittent no Scell PRSs scheduled,Distributed Unit,c63e2072-c137-49ed-874e-33d4e86a0c5d
+[SVR23A O-RAN][VFRO ORO Pilot Romania] Poor UE Context Retrieve Success Rate for ORO cells,Distributed Unit,32250148-c627-475a-80c0-f43dcb3b971b
+[SVR23A O-RAN][VFRO ORO Pilot Romania] Higher Uplink interference in VFRO cells than co-sector ORO cells,Distributed Unit,451f7dee-d2ad-453d-b3c6-dce235e35618
+[SVR23A O-RAN][VF ES Create] DPP no-phase-clock-ref-signal,Distributed Unit,8f6d2879-6a5c-4619-a9c9-bc44930fe128
+[SVR23A O-RAN][VFES Create] Issues in gaining 5G SA and NSA service,Distributed Unit,12020bf2-b48c-4d15-b4c7-0b0a2ae71d2c
+LAM037/LAM030/COL005 - RRH Digital Input low Alarm,Distributed Unit,6701d0f4-21db-44e4-8e47-f4096825bddb
+SVR23A O-RAN][VFRO ORO Pilot Romania] SW Re-fork (gtob_bs.gsm.xcg) on GSM site 2392OL_V_BE1746_ORAN_GL_vDU2,Distributed Unit,0b7cec9d-f8fc-47b6-ba52-5d8cf8afd8a9
+SRVCC to GSM is not working,Distributed Unit,b0554523-d70f-4ad6-9a90-128606b4bce8
+"[SVR23A O-RAN][VFRO ORO Pilot Romania] Failures increased in s1 setup phase under ""S1ConnEstabFail_S1apSigFail""",Distributed Unit,6f178962-c832-4924-bf92-59a65b46e62c
+Busy sites with quick drops on low band cells - all sites have LCC2 boards,Distributed Unit,e49573c0-407a-42fa-90f8-01f6aac9f0b2
+Samsung_4G_MAN127_MAN127B62_SAM_4G_Data_Handover,Distributed Unit,46434537-70d2-42b2-bed5-dfa7ac9d671b
+DIL Alarm on /VOS/2587BO_O_CR0165_ORAN_GL/ORU[6]-ORU[6]/tac_0_0_0_0/ta_0/1004  When the power level of I/Q digital data (which is inputted to amplifier) is lower than alarm threshold,Distributed Unit,8ccdc7ed-0327-4f4b-8624-2a05d6603f9e
+Multiple X2 in HOSR degradation cases-TAM021 &KKS001,Distributed Unit,c491fd57-feff-4f89-8987-6247747ba37a
+Energy Counter Query,Distributed Unit,eee2cc3c-665f-4ce4-8c06-e3662dbd0b02
+Marko_test,Distributed Unit,97b122a9-4a9f-4000-9038-c371538859ac
+SLR6.0.0 - Periodic InterRAT ANR is not working.,Distributed Unit,81f3b72e-18bd-4bc9-b174-bb4a9f835f35
+SLR 6.0 : VoLTE during InterRatANR removes A2 Measurement configuration impacting SRVCC,Distributed Unit,a6d64415-03b1-43ba-8982-5a0ddcb043a1
+SLR4.5.0.P1 - Interfrequency Periodic ANR -ENB is configuring Inter-frequency periodic ANR measurement configuration for NBR which has been added via Inter-frequency periodic ANR previously,Distributed Unit,86ba0cf0-c7d0-4e75-a026-a82873f8565b
+SLR4.5.0.P1 - CA 1800/800 - It is possible to get UE DL throughput more than APN DL AMBR rate which is set during APN attach.,Distributed Unit,127d9f95-f8e5-4ec8-ae3a-6cdfbc370573
+SLR4.5.0.P1 - CA 1800-800 - UE capability message was requested with every service request for Release10 devices,Distributed Unit,d8c5c010-fbf7-4d4b-b5f4-cfe568b20e56
+DL-FSS:  AIDTH1 value affects DL-FSS functionality in SLR6.0.0_P02 eNB.,Distributed Unit,0932c889-6d06-4bc1-8645-63428ab56a9b
+SLR6.0.0 – LTE1800to3GOffload - LBRedirectiontoWCDMA counter is not pegging,Distributed Unit,c3c41aad-58f6-4430-b96d-4f451540fcfe
+SLR6.0.0 – LTE1800to3GOffload - B1 EVENT is still being triggered on UEs when RATE_LB_CANDIDATE set to 0,Distributed Unit,4c5c2fa5-65e9-4e6f-8c95-a5d5b3fd03fc
+BRA016_Erab Setup zero for all 6 cells post UAMA swap,Distributed Unit,cc04b814-f78b-4939-9b97-0ee8fd49db91
+SLR 4.5.0 : CA : aPeriodic CQI reports not included in Wideband CQI report counts,Distributed Unit,83f45744-72b6-4630-86d5-d39d9dc5d30d
+"Post SLR6.0.0_P02 Upgrade , 23 Sites Failing SW verification with ""db.tar.gz"" file Size 0 on eNB",Distributed Unit,5ea6076b-4734-48a6-9f5c-49a1d20779c6
+MRO feature counter (TooLateHoRlfBeforeTriggeringAtSetup) doesn't peg,Distributed Unit,fe6109b3-f010-48a9-9d41-ba043aa3f0fc
+MRO-012-A feature counter (TooLateHoRlfBeforeTriggeringAtSetup) doesn't peg,Distributed Unit,9d60cf48-a65d-4d68-b1c7-7e3dc3385e9f
+IMP DSP RESTART,Distributed Unit,bd588dda-58f4-4d54-a806-f01892b155fc
+SLR7.0 ULCoMP: UE not able to register with ULCoMP activated on LUA1 HW eNB in SLR7.0,Distributed Unit,e6ff09c7-9ece-4abc-a1f8-ca4954b69703
+SLR7.0 ULCoMP: No UL throughput gain for a VoLTE + UL FTP Data call with ULCoMP activated on LUA1 HW,Distributed Unit,2d08157c-42a8-42eb-a6fa-920d673cf0de
+eNB Default Route Missing,Distributed Unit,1eba969a-02f6-4327-a7f6-a57ee3dd65dc
+3UK_eNB_Site not taking traffic_RRC drop under counter ConnEstabFail_RrcSigTo,Distributed Unit,7b7f9e7f-9e8e-4c60-918f-d4e19c37bc7f
+"Decor: With UE type of attach as GUTI, eNB is not selecting the correct target MME based on DCN-CONF",Distributed Unit,5f3807a1-e157-4ab4-ad27-0c31cdd789b6
+eNB <-> PKI: eNB Vendor Certificate subject DN currently can only have one field (CN),Distributed Unit,26318ca4-ce39-422d-9c1b-9cca1a61c124
+3UK_LTE_RRC traffic reduction in all cells of LPL058,Distributed Unit,c36ccbee-51d1-42e3-98e2-92db07e1ea10
+CK0437 - Golden site with Intermittent service off,Distributed Unit,c2acf651-356d-483d-b659-5c0b1964aa0b
+Nokia SeGW - eNB SCTP Primary selection behaviour not as design,Distributed Unit,04d4aa9e-bd97-4104-b73a-e41c752d2d2a
+3UK_LTE_SOT071_ Session Not getting created after LUA card replacement,Distributed Unit,153eb828-641e-489b-ac3e-f35d79dda476
+"3UK_LTE_Accessibility, Retainability and Step change in throughput",Distributed Unit,ab08e348-54b9-473d-89cd-0ac73f17b134
+Duplicated eNB_id in other vendor causing low X2 HO Out Prep success rate,Distributed Unit,4f18dd58-32af-4472-b6e6-49db5625660e
+OLN SVR19A OC2:  5G NR no user plane / FTP server data is possible,Distributed Unit,e19f5ec7-94eb-4114-976c-e19d7404e342
+[SLR9.0][Orange - Cluj Napoca][cell reserved for operator & access class barring function not working as expected],Distributed Unit,e3f084c2-01eb-418b-bf54-86175c2cd92f
+[SLR9.0][Orange - Cluj Napoca][Missing IRAT Neighbors Tab in USM],Distributed Unit,9e67be32-4795-4763-bb6e-429082c7c4b6
+3UK _ LTE_ Follow-up RCA investigation of TS2050I9,Distributed Unit,1c1be7fe-f1d4-4f01-8fdf-154a31f7d0c5
+3UK: 3UK : Inter vendor RRE between Samsung <-> Ericsson,Distributed Unit,b45024ad-cc02-4718-beaa-616e865f287c
+[SLR9.0.0/SVR19A P2][Orange Romania Cluj-Napoca][Site CL0756 multiple alarms and service-off],Distributed Unit,c46874da-3e3e-4cdd-9550-2fa01d4623e3
+3UK_LTE_MR0SLM04_ERE020_Site down post software upgrade,Distributed Unit,0f89c073-69d3-4719-84a1-1cc993dc7afe
+3UK_LTE_ Observing Intermittent sleeping cell issue in BEX011,Distributed Unit,2f8019b0-b865-478e-9f66-a365e6e657f0
+3UK_LTE_ Site not coming on air due to Loading Error and Protocol Status SNMP alarm_GLC124,Distributed Unit,419046e4-1f56-4349-af17-da5656e1a634
+3UK_InterVen(H//)_S1HO_fail for 'endc-r15' IE introduction,Distributed Unit,fded0f62-9e25-4760-a2bf-68eb478693b9
+3UK_LTE_ Cells not coming on air with DSP RESTART and SOC RESTART alarm_CDG058,Distributed Unit,0a621fb0-b04a-4161-8046-ddc805566007
+[Play Poland Field Trial][SVR21B Orange Pkg][eNodeB][Only TimeAdvanceSection0(count) is pegged],Distributed Unit,98b81260-bd7b-4169-af35-e6bec4d16ef9
+[Play Poland Field Trial][SVR21B Orange Pkg][eNodeB][Very lowe DL CQI with DLReceivedCQI0(count) pegged in very high volume],Distributed Unit,951bbc4b-0a5b-41f1-b057-80824a6c60c6
+"3UK SLR9.0P1 CMData Size(Reported PLD/Tuples) has reduced, why?",Distributed Unit,13526a27-28a5-407d-9621-bf7b845bcf2e
+3UK_LTE_Site down_Failed to run CMP client for updating CERTIFICATION,Distributed Unit,c438ed9d-0c5c-412b-b17e-ce38dc600f65
+Unified PF Scheduler for CA througput clarification on UAMA,Distributed Unit,a973af2c-f463-4772-9f2b-71def9632014
+Site Failed with Loading Error in LSM,Distributed Unit,b2d399d7-d013-4617-89ae-99bf16914731
+test btsp,Distributed Unit,29f04feb-249f-4c79-85b2-876db86f53c2
+Site down with Protocol Status Alarm Ping and SNMP alarms,Distributed Unit,5783febf-2ddc-4ec4-bc7f-9012c77982e3
+Vendor Certificate Issue,Distributed Unit,08783508-12d2-4788-822b-ce4e7a259ca0
+3UK SLR9.0 P1: TotNGbrPrb count usage: UAMA,Distributed Unit,eef08beb-d304-472a-b57e-174ca9a10c54
+3UK SLR9.0 P1+ontops: UL throughput not the same SingleBand L800 [UAMA(higher) v LUA(lower)],Distributed Unit,974b783b-fbe4-4811-a59d-48ac1c1e4cf6
+Site down with Protocol alarm,Distributed Unit,7cc6f82b-7547-4e42-a11d-f00dfe2f5e4f
+Site down with Protocol alarm,Distributed Unit,56888d84-217e-4f13-930e-fc86add84ab2
+FPHO for the Data Call is not performing,Distributed Unit,13a2107e-93de-4a88-b824-7efd8d6342a3
+RCA fault investigation for 37 sites,Distributed Unit,d1c79a63-25e0-48a2-89e6-8660146227f6
+EST024- Sleeping cell issue on Sec 3,Distributed Unit,28e64c9c-40b6-423c-87a2-f92e17dcc022
+MOV022- RRH Digital Input low alarm getting intermittent on Sec 3 of L1800 band,Distributed Unit,a126240a-ce26-4d3b-b3b5-c2f7ffc7d4c6
+[SVR23A O-RAN][VFRO ORO Pilot Romania] On ORO cells high number of MME abnormal releases with cause RelAbnormalbyMmeQci_EutranGen,Distributed Unit,63753e7c-c64d-4455-b818-c80a33ce5329
+[SVR23A O-RAN][VFRO ORO Pilot Romania] Increased number of RRC Connection,Distributed Unit,40b546af-a0f9-4f8f-b78a-64809198da9e
+DPP0 pod failure 2392OL_V_BE1746_ORAN_GL and 3004TT_O_CR0383_ORAN_GL,Distributed Unit,774e164e-cf96-4c71-a8a7-11125aa7f872
+BHM144/NSO024 - Multiple KPIs Degradation on Data/Voice for both sites,Distributed Unit,5d06c540-fdd2-42c0-9472-77fa1207330b
+"[SVR23A O-RAN][VFRO ORO Pilot Romania] KPIs degraded after site outage, site reset needed for the performance to be restored",Distributed Unit,1536db21-13ff-49f8-be3a-c667d8222112
+[SVR23A O-RAN][VFRO ORO Pilot Romania] KPIs degraded after swap for Sector 1 Band 1 of site 2587BO_O_CR0165_ORAN_GL_ENB,Distributed Unit,9b937b5f-936b-45f9-a1ac-9815b1e94acb
+[SVR23A O-RAN][VFRO ORO Pilot Romania] UTRAN RIM status not-connected,Distributed Unit,2d75b10d-0ef9-44d4-a640-36d1736ff0a5
+"[SVR23A O-RAN][VFRO ORO Pilot Romania] ""PDCP Packet"" family counters stopped pegging on all cells of site 5437BR_V_CR1521_ORAN_GL",Distributed Unit,572a6477-d1b9-4185-8d6a-2818510f056e
+"[SVR23A O-RAN][VFRO ORO Pilot Romania] ""ReadCellUnavailableTimeES(s)"" not pegging in the KPI family ""Availability"" after cell ON/OFF feature is enabled",Distributed Unit,ff43538b-2b6e-4d8c-860a-24db539d80f4
+"[SVR23A O-RAN][VFRO ORO Pilot Romania] Energy Saving Feature Deep Sleep Mode was activated for cells with Cell On/Off Feature active,but we don't see any reduction in power consumption on ORUs",Distributed Unit,d8b8a2b5-d063-4fb5-a190-2ddec46e2ec4
+"""DPDK(vupe.xcg) Sw-unit deactivated/activated ,2538PO_O_BE0389_ORAN",Distributed Unit,65b3b8dc-c097-4be7-80ba-ac9af02c2fdc
+"[SVR23A O-RAN][VFRO ORO Pilot Romania]BSC40,BPP function fail alarm observed along with software unit gscb_ac.gsm.xcg,gspb_ac_00.gsm.xcg deactivated",Distributed Unit,7391cc46-a654-43a1-acc9-412d0ce20df4
+sumb.xcg sw unit deactivated/activated for site-3004TT_O_CR0383_ORAN_GL,Distributed Unit,b25982f4-e522-40b5-8dc6-aafacbe6846d
+VF UK CL: TRX shows locked in BSC after the 2G GSM cell creation on BTS end,Distributed Unit,5094a177-8cf5-4674-a715-49c7914f74a0
+X2 Setup Failed (via ANR) in MOCN config,Distributed Unit,ef8d9719-6c78-4494-883f-f0bc69a29d31
+Request for Support – Increased DL-GTP Loss on Samsung Nodes Post-QoS Migration,Distributed Unit,da507f14-8958-4aba-9838-4219738d3282
+Observing more LUA cards to be OOB,Distributed Unit,db5d2f25-34ff-46bf-ab6d-15532daa1def
+SLR 4.5.P1 : Demo Ticket : InterRat Neighbour Auto Deletion : Neighbour not deleted,Distributed Unit,1fe21170-9373-4395-8a55-cad3df81b3f8
+X2 HO IN KPI degradation due to “InterX2InPrepFail_CpCcFail”,Distributed Unit,57f6d80e-4346-44a1-959c-12258ff8631c
+CSFB+PSHO,Distributed Unit,1d988555-40da-434b-a483-fcd0421ff38d
+SLR 6.0 E27: Abnormal release after VoLTE call disconnect in TTIB condition - SLR 4.5 correction not present,Distributed Unit,6497cb5c-3f18-457b-80cf-ec8b3822b56d
+SLR4.5.0.P1 - Interfrequency Periodic ANR - EUTRA-PRD -> Purpose CGI CLI changes were not reflected on interfrequency ANR measurement configurations,Distributed Unit,1d657f0f-fd96-4855-bde2-d8dd52d350a9
+ECP-DSP alarm triggered on test LCC2 card (used with L1800WB RU),Distributed Unit,ce13e299-66bc-48db-a4d0-b03f28220227
+RRH Digital Input Low observed on LUA1s during 3IRL SLR 6.0 P0_02 Trial on Production FNI Cluster,Distributed Unit,d3a009ba-65b1-4e02-9795-bd9b27188e5d
+KPI degradation post SLR6.0 Software upgrade,Distributed Unit,fdd7b3f6-7467-4d09-9b9f-0b2494e5a8c2
+Feature MRO-017-A pegs R9 and R10 counters,Distributed Unit,d945a9d2-01a8-47b5-aa16-4be956520d5a
+"SLR 6.0 carrier aggregation, parameter clarification",Distributed Unit,ca371c9f-c6c5-4839-9296-b191f4b11b53
+SLR7.0 testing: Issue with eNB grow in SLR700,Distributed Unit,bd801058-40e4-4215-bb3c-667ff3a353a6
+"Cells in disabled state with RRH Fuction fail alarm, site- AAB007",Distributed Unit,65de4c3b-c167-4abb-98e3-5fcc609613ce
+eNB SLR7.0.0 FOA - Conn Re-estabshisment showing degradation,Distributed Unit,51227877-4c3c-4199-af30-e6660d5fe507
+3UK_OAW005_SLR 6.0.0_eNB Cyclic restart,Distributed Unit,9e107e18-36e4-476e-b979-75d19652466b
+LTE Sites (MME+Service OFF Alarms) restore after Session clearance,Distributed Unit,2eed4beb-ae1c-4251-b16d-ece1035c9995
+3 x new integrations - S1 Logical Connection Setup failures,Distributed Unit,51211b2d-75af-41c3-b592-8db6d4579dde
+3UK_SLR 7.0_eNB_Site not taking traffic_RRC drop under counter ConnEstabFail_RrcSigTo,Distributed Unit,b9b25907-9b75-44a3-9772-028944feb147
+"eNB <-> PKI: eNB Vendor Certificate, 2x extraCerts being sent in IR message to PKI server",Distributed Unit,682a7f4a-9755-4f61-82ff-62c2cbe6d69d
+3UK_LTE_eNB_HFD107_Loading error due to software download fail,Distributed Unit,28a61c7c-ec87-415c-a8ac-4f773cfe151d
+Intra-eNB HO SR Improved after SLR8.0 Deployment (Need Clarification),Distributed Unit,3773704e-81e7-4f63-a268-9bd9b6a0808d
+Increase in number of Cells having End User Throughput greater than 100Mbps in Capacity Report after SLR8.0 Deployment,Distributed Unit,0ce3aa62-8178-4267-bdd5-1f93df376e63
+Operator certificate does not renew after expiry,Distributed Unit,7fe30c0e-2924-4386-8f00-5a34e1502751
+KK0130 - Issues with LCC2 board – ECP Fail,Distributed Unit,4230bf1b-801a-490e-b510-8b363b9383a5
+Increase in Timing advance samples following deployment of SLR 8.0 P0_01 (more than double),Distributed Unit,d1fe88cf-b6df-4493-be74-b681cb7ab17f
+OLN LAB:  UL Throughput (Mercury 'realistic' KPI not achieved)  OC2 Resv R9 (Item #80),Distributed Unit,700637cb-a96f-4d9d-977c-2aa97dfdb827
+OLN SVR19A/SLR9.0 Phase1 : Not successful 5G NR (SgNB) bearer setup,Distributed Unit,9db8d317-2608-4077-84a0-9bf47dc79ffe
+SVR19A OC2 OLN: UL AMBR limit function t-put results not as expected,Distributed Unit,c95c58f2-4c08-4558-bca8-827b5ebb977b
+[SLR9.0 Orange Romania Cluj-Napoca][ EN-DC-Intra-Site not working sometimes after site reset],Distributed Unit,84672d4d-34ba-43a7-85d2-b86e29e5fa8e
+SE CORE FAULT observed in ORO CL0666,Distributed Unit,6968acd5-713d-4a45-a28c-f277efba2728
+3UK_LTE_SFD064_Site intermittent post SLR 8.0_P0_02 Upgrade,Distributed Unit,8735db78-d129-443f-ad2a-543da61c5511
+3UK_LTE_BRE015_Site showing as working on SLR 8.0 P0_01,Distributed Unit,1bb5ce53-5aa8-4eaf-a5ac-4567b5d7e728
+3UK_LTE_TAW055_ BN0LSM04_X2 HO IN KPI Degradation,Distributed Unit,0d052939-fcfd-4258-8a31-e17d65862587
+3UK FPHO: X2AP Messages (ResourceStatusRequest) is not being exchanged with other vendor,Distributed Unit,430ce023-4e94-4cb9-9214-708a2d45868a
+[SVR19.A.0 Orange Romania Cluj-Napoca]-NR: en-dc-x2-down visible at periodic intervals for one site CL0237,Distributed Unit,e619db4b-c8b2-40f8-92c7-5fd2472165ef
+SVR20C Poland Trial: Zero RCC Connection on 3out of 6 L1800 cells after dsp-fail on GCB1,Distributed Unit,440803bd-03e7-4688-add2-8b91b4c20d1d
+3UK_InterX2InFail_X2apCuFail Increasing trend in NW level,Distributed Unit,e1c065a8-9068-4a4b-8e29-c30ae545b590
+Site down after Legacy to MAYA Sec GW migration.,Distributed Unit,8d5e9a7f-e1f5-40b6-9538-bd8f76de8f9c
+[Play Poland Field Trial][SVR21B P2 Orange Pkg][eNodeB][Increased VoLTE Drop Rate after the swap from H/ vendor],Distributed Unit,63db62fb-cb4f-4529-b900-e5ad19e10cba
+Site Failed with Loading Error in LSM,Distributed Unit,b08620fe-7e89-40c9-a41b-352fc93014ea
+Site down with Protocol Status Alarm Ping and SNMP alarms,Distributed Unit,c87765a9-3b6a-4a2b-9a31-a40fcc04917d
+[21D][Play][Field] GUPB block restart after unlock of N78 cells,Distributed Unit,c9e167d4-4ad3-49ba-b068-a76a5717201c
+Test BTSP,Distributed Unit,d3d6245e-02b4-453d-9452-64f7089d9e92
+[SVR21B P2][Tef UK Field Trial] PM data missing on 5G site,Distributed Unit,9b97ef7e-0c60-46db-bd73-a7c89c1807ae
+[VDFUK Ph1 Commercial Trial][SVR21A VrZ Pkg][gNB][Low Intra-SgNB PSCell Change SR [%]],Distributed Unit,0d9a258a-9207-42e7-94cb-e7e5f27b203f
+SLR9.0 P2 - RRE Failure when UE-CapabilityRAT-Container includes rat-Type: nr,Distributed Unit,5334a2d4-70da-46bf-8535-0731a0d78252
+Site intermittent with Protocol alarm,Distributed Unit,e7e9de45-2f72-4e64-9ac9-3e6dbd2fdd22
+[SLR8.0 3IRL] - Issue triggering SRVCC based on RSRQ based on A2/A1 - triggerQuantity=both,Distributed Unit,920c0da6-f1ac-485d-8388-f648001ced25
+Certificate alarm issue for multiple enB's,Distributed Unit,a0eb1aad-809a-43d3-b639-203ebef38dce
+3UK LTE-SO0802 ES CellOn/Off no transition to 'Off' state (Licence ?),Distributed Unit,56e42399-e2b6-44e8-990a-e1cdc1977b08
+ANT290-Service off alarm getting intermittent,Distributed Unit,fbbc64c4-994e-4acc-a2a6-6064d92b021d
+RCA investigation for 419 Samsung Sites,Distributed Unit,b643d513-94c6-43b1-a280-66683b72fb0c
+[SVR23A O-RAN][VFRO ORO Pilot Romania] SW Re-fork gtpb.lte.xcg,Distributed Unit,5770ccd7-561b-4413-9b5a-894240868a6e
+LK0211 loss of CA traffic post SW upgrade,Distributed Unit,54e07bf9-8a52-4a3c-b8d1-0e0fc61d4ac9
+PM stats are not reflecting for multiple sites in MRLSM01 and MRLSM02,Distributed Unit,79d98dd0-d201-413f-90c3-0d98840ec516
+VF UK Lab: Delay in dpp no-phase-clock-ref-signal alarm after PTP holdover period of 4 hours.,Distributed Unit,2dbe6bea-e2f0-4983-b1d2-a54ab042db51
+"[SVR23A O-RAN][VFRO ORO Pilot Romania] Degradation in HO Success Rate Inter eNodeB Inter Frequency for 2392OL_V_BE1746_ORAN_GL, cNum53",Distributed Unit,a5306079-7f17-4443-b3de-2a69c4f8c3d9
+[SVR23A O-RAN][VFRO ORO Pilot Romania] sumb crash while cell setup in dpp0 after Hotfix4.4 upgrade (r-0123 (SVR23AUDUVOSV29)) -2396PO_V_CR1516,Distributed Unit,21784b41-3a71-441d-98a0-2719c472f602
+eNB11 : : Preprod :: [eNB_1048511] check ip duplication issue,Distributed Unit,11584884-014c-4f38-9cb9-a83ee9c1d9b0
+DPDK(vupe.xcg) crash on NE-ID 247,Distributed Unit,22f609a4-b7f4-4b18-b478-0221a94ff36c
+"[SVR23A O-RAN][VFRO ORO Pilot Romania] Poor Intra ENB Intra Freq HOSR on CR165, potential sleeping Cells issue",Distributed Unit,eb7865ab-1293-42d5-941f-b5b02ea2f86b
+2587BO_O_CR0165_ORAN_GL- DPDK(nphy.xcg)  deactivated/sw-unit-activated,Distributed Unit,fdb31aaf-d981-4240-80d7-14319a62e2dc
+3UK/VFUK MOCN(S0):  Data (&VoLTE) DCR rate increase?,Distributed Unit,8820dc9b-f2b5-4722-9090-608151afae57
+3UK L1800(15M->20M) PDCCHAggLevel1=0% ?,Distributed Unit,062b24cf-6b32-4745-ba60-684b67e7dc5d
+[MOCN] Request to review/change pegging of Cntr Familiies:- RelAbnormalbyEnb & RelAbnormalbyEnbQci when [0x0102]S1ap_SuccessfulHandover is pegged,Distributed Unit,bf4eacc8-ec73-4cd6-9b9c-2f454e362e29
+"After enabling RLF triggered handover feature activation, Inter-eNB RRC re-establishment still gets Rejected",Distributed Unit,fbd84719-55e2-4251-949b-5ce01141da96
+SLR: 4.5.0_P0 : Direct Grow on UAMA or LUA increases RTSP reference power in SIB2 by 3dB on 1800 and 800,Distributed Unit,201e7973-3910-400f-b828-26ec907bed7e
+SLR4.5.0_P1: No UL Grants following TTIB activation,Distributed Unit,cd3db436-10c8-400d-8adc-985539d0e5eb
+#TS16804I SLR: 4.5.0_P0 : SIB2 Multiple Read issues on 800 layer,Distributed Unit,fa3e1add-9c9d-4472-ae82-8bb667588054
+Local access to LUA1 via EDBG port is not possible,Distributed Unit,6c0e0698-b9c3-4ee2-b297-3f222872dc28
+H3G Testbed - eNB07 syncE failure HW alarms,Distributed Unit,f338d30b-d389-4c25-b975-52fbfac20883
+"SLR4.5.0.P1 - Interfrequency Periodic ANR - In some cases, Inter-frequency ANR measurement is not being deactivated with PS data",Distributed Unit,3ac8e298-554e-475b-97f7-d28d55088aca
+X2 HO Out attempts/failures to locked (disabled) TARGET cell,Distributed Unit,ca251ef2-243a-446a-ac4f-06406770d31f
+NSO026 Cnum-7 and cnum-8 sleeping cell issue_4.5.0 r-02_LUA_Site,Distributed Unit,ecdf32ad-6c5a-487e-99b8-0f7a68204714
+Feature MRO-012-A pegs R9 and R10 counters,Distributed Unit,dce07148-c7d2-41b0-b778-8925b66ae2bc
+Inter-DC: S1-U Resiliency testing: eNB behaviour when SeGW port towards EPC is down,Distributed Unit,85f8766e-bb92-41f3-845e-61abe2d376a5
+Investigation into causes of CSFB + PSHO failures,Distributed Unit,2ada56e6-a8e3-484e-bab5-48f4c4c30e3e
+SLR6.0 Inter-frequency handover configured (A5 event) without activating measurement gaps,Distributed Unit,9a0df00d-786f-42f5-9e3f-eada09e67cea
+SCell_Deactivation_TO(Count) counters not being pegged while performing Inter-eNB HO,Distributed Unit,1f0f2c35-eed7-4eea-8fed-abfd82e6679f
+"eNB SLR7.0.0 FOA - IRAT, RatoutFailUtran_CpCcfail and RatoutFailUtran_S1apSig Fail degradation",Distributed Unit,46f12759-012c-485d-a226-c5a1015df70a
+3UK_LTE_BNT095_site fluctuation issue.,Distributed Unit,3356ec4e-1d83-4233-a1cc-5d21ea5199c4
+KD0156 RRC fails,Distributed Unit,33ba84da-a6d4-4304-b1cb-bc7aef9fc2a5
+CONNECT_BOARD TYPE/CONNECT_BOARD_TYPE_ADD IMP/ECP mismatch during LUA eNB grow at SLR7.0.0_P1 SW,Distributed Unit,cd42aa75-f640-445f-bd5b-0683b441f424
+SLR7.0_P1 :: IND MME COMMUNICATION ALARM on MME-1 & MME-2 after SW upgrade,Distributed Unit,ed049499-4e7c-4d7f-9335-bb2640a10288
+MRO Counters (PingpongHandover&PingpongHandoverVoice) doesn't peg properly for LUA1,Distributed Unit,72f353a3-b836-4c3b-8dd2-54758b3a6a2f
+3UK_SLR 7.0_P0_RRH digital input low gain in all L800 cells,Distributed Unit,8bd9b157-fbb9-4d9c-9c2d-0bd1795650d0
+HTPLSM1M -> ENB11 is offline and doing cyclic reboot,Distributed Unit,16cd5f88-3001-4f74-9767-6c6333ae0fba
+3UK_LTE_eNB_SHF075_BHM052_Loading error due to software download fail,Distributed Unit,3ed83497-bd2a-4e7b-82d8-f4d2228bf78e
+3UK_LTE_BNT095_Availability issue after Six Sector Implementation due to High Temperature,Distributed Unit,fac7106c-f42c-49e9-8afb-c11f7f623bbc
+3UK_LTE_eNB_CM xml file_dbupdatedtime time is not available in eNB xml file,Distributed Unit,a7004cf5-3d44-49f2-b912-932224cf8c76
+IND MME and MME alarms,Distributed Unit,bbb6f063-d14f-439b-8f02-196aa33417c5
+"Testbed: SLR8 eNB – with MAX_CALL_COUNT reached in the L800 cell of eNB with PLD changes, RRC Connection does not gets rejected.",Distributed Unit,e12a03bc-8a46-4b7f-8b75-e702fb38355c
+Testbed SLR8.0eNB: After enabling UL64QAM the UL throughput degrades on L1800 & L2100 Cell on LUA1,Distributed Unit,a58b17c9-4dde-4fa1-a89c-586616b8ac05
+Scell Activation & PRB usage reduction on high traffic UAMA eNodeBs following SLR 7.0 upgrade,Distributed Unit,79b32d35-c4b3-4046-ac11-e182a74a6b50
+Reduction in Ping Pong Rate,Distributed Unit,f6caacda-945a-4327-a999-c68c1427c919
+Increase in DL VoLTE HARQ Fail Rate & decrease in,Distributed Unit,6434dbda-3eab-4bd9-8110-38e1df36aec6
+Intermittent ECP DSP FAIL alarms occurring on some 3IRL eNodeBs,Distributed Unit,c7fa2fd3-5466-4ac4-8b72-70e0c314eec9
+"3UK_LTE_SLR 7.0_WMS113_Site intermittent with IMP clock fail, IMP DSP_SOC restart",Distributed Unit,172b8ae3-93fd-4471-bd34-194127a257f2
+Increase in QoS: SLEEPING CELL DETECTED alarms on 3IRL Network,Distributed Unit,cce1ecd3-d6e1-4acc-a0be-b9b0d3d6a9b8
+Maya PKI - Maya secondary MME SCTP heartbeat behaviour is not expected. sctp connections paths are not on the right tunnels.,Distributed Unit,a9a8ce1d-a9c4-4592-8584-43e74fb4a7b0
+"""NOTIFY CERTIFICATE UPDATE FAILURE"" triggered every minute even though the certificate is valid",Distributed Unit,f25124fd-d140-48c3-b1c3-9fcceeea7292
+Nokia SeGW - IPSEC tunnel restart is observed with eNB certificate update event,Distributed Unit,599d0dcc-e247-412e-be74-9f28e0398a75
+ORO RRcReconfig Issue on EN-DC,Distributed Unit,4210eed8-2e25-4bc4-ad9b-0eab519651dc
+ORO Low 5GNR Throughput in Good RF,Distributed Unit,e782fe8d-2d77-4b4e-aafb-89c27a52f721
+eNB <-> PKI: eNB Vendor Certificate subject DN currently can only have one field (CN),Distributed Unit,e511a2b1-a99c-4500-b421-650f5f3e969f
+S1 bahavior with commercial traffic,Distributed Unit,30fa7940-5470-4958-999b-9746888e20df
+No S1 handovers after MME connection interruption,Distributed Unit,74d69c8f-8da1-4257-bd41-af5767b13942
+LTE eNB Dimensioning information request,Distributed Unit,e8ba5d51-c0b6-432e-8311-3676d3d8782c
+19A ENDC addition does not happen due to missing measurement object regarding NR in RRCConnectionReconfig,Distributed Unit,7376ae62-534a-4fdc-b6a1-732ecdb01aa8
+3UK_LTE_LUA faults recurring due to refurbished cards,Distributed Unit,bed6c0ee-1aeb-47c1-b931-53867d3cf3cf
+[SLR9.0][Orange - Cluj Napoca][VoLTE call has no voice in downlink and drops after 20 seconds],Distributed Unit,f4377122-ae9c-46e3-824c-e26b659b9c34
+PS IRAT HO not working in ORO SVR19A,Distributed Unit,558ba844-dea4-4eaf-9a28-495845827d83
+5G NR throughput (DL&UL) issue seen by Orange Romania for Huawei P40 Pro on SVR19A,Distributed Unit,294de9ad-8c0e-4248-85ff-bd8560c723dd
+[SVR19A Orange Romania Cluj-Napoca][ SI7 binary Low throughput in EN-DC when doing xCAL HTTP Test],Distributed Unit,26db198e-25d9-4179-91dd-6b0a797a3694
+3UK_LTE_ Intermittent Service Off alarm post SLR 8.0_P_02 Upgrade_ SVK056,Distributed Unit,a3d83717-b0ac-4721-a06e-f7849fb7db87
+SVR19A OC2 OLN: Energy Saving Channel On/Off function does not take effect when all cells are off,Distributed Unit,df3ed9ac-1422-4cb8-a5f4-95d9df962fa5
+NetWorkS! Poor X2 Performance - Requires support to Optimise,Distributed Unit,ba389798-37ff-4462-a621-29f0ba0e90fa
+Samsung 3UK LTE SLR8.0 v E// NR RAN (RLF HO): Incompatibilty,Distributed Unit,5db13655-e8d7-4674-a259-9b6f178d9499
+[SLR9.0.0/SVR19A P2][Orange Romania Cluj-Napoca][EN-DC Not working for OnePlus 8T device],Distributed Unit,bc3550cb-c30c-4f3a-9a61-b19fa397551b
+SVR20C Poland Trial: eNB is rebooting periodically (stb.oam error seen in mortem),Distributed Unit,f2aab158-356b-4bbf-af46-aef0e777aa26
+SVR20C Poland Trial: DSS Cannot be activated Cells enable/disable every 10sec,Distributed Unit,3bdf1801-54c4-4866-9cc2-c8b39a44e36b
+SVR20C Poland Trial: Increase in RelActive drops since upgrade to SVR20C (from SVR20A),Distributed Unit,11fea865-4575-41b5-88e2-26fb55f4dc9d
+SVR20C Poland Trial: Reboot of 2x eNBs observed since eFix3 upgrade,Distributed Unit,444304e7-0fc6-41a5-9aa7-1fae5f7cb3d1
+3UK SLR8 LSS (Emergency) call :  Incorrect SRVCC parameters,Distributed Unit,bb261d1e-9271-4dc7-a336-5abe2f7efd63
+3UK: SLR8.0  LSS Emergency Call NOK with Galaxy S20,Distributed Unit,e61208ae-b6d2-4fd2-a6a4-2335dd71cc0e
+ERAB Capacity CAC fails for QC1 with low number of ERABs,Distributed Unit,3ec3e323-4d18-452c-9178-e0d3cff801ee
+[21B][Play Trial][Carrier Aggregation] Scc-selection-priority is not applied for Carrier Aggregation call,Distributed Unit,4994d1fb-9f35-4214-8017-9c6012039935
+[Play Poland Field Trial][SVR21B Orange Pkg][eNodeB][Sleeping cells after reset or prameters change],Distributed Unit,113c1919-be76-4df0-939d-29a0db8a6ce4
+Site down with Protocol Status Alarm Ping and SNMP alarms,Distributed Unit,776fdeab-1146-4b48-8598-7c3268b96bc5
+S1_TUNNEL_GROUP_ID: Parameter value changed to = 0 at point of upgrade to SLR900 P1,Distributed Unit,6ea149c0-f545-496b-ae5a-d7066db52db6
+Site down after Sec GW migration,Distributed Unit,b2e58031-d448-46e4-81f0-efa8c7404a0a
+[SVR21B P2][Tef UK Field Trial] Cell availability,Distributed Unit,c794b10d-c61a-46b7-b5b8-1a9f776988e9
+3IRL SLR8.0 Best Cell Aggregation activation on LUA1 causes UL BLER (PUSCH/PDSCH) degradation,Distributed Unit,b0a0b16a-fc7e-4e69-912a-42a602af2d29
+Unable to modify the new serial number in LSMR,Distributed Unit,d2e52431-0387-4c44-b8f9-7f1e9becc393
+3IRL SLR8.0 P3 – Higher VoLTE DCR observed on LCC2 (S8400) card,Distributed Unit,43832bd2-bbcd-4470-8bba-a5eb4f4c61c3
+Sudden increase in VoLTE UL Silent call,Distributed Unit,36350e87-0037-41a7-a63d-1f714d380f63
+WWI006 - Site Down,Distributed Unit,205e53ff-e7b6-4404-af18-11e2fc26fea2
+[SVR23A O-RAN][VFRO ORO Pilot Romania] No nb-iot calls on 2396PO_V_CR1516_ORAN since 17 Oct,Distributed Unit,52b60423-2c8e-4a3c-abda-5182cb2cd4f4
+After the USM upgrade we have an issue where the psd-0 container is restarting,Distributed Unit,47144aed-878d-42e5-87eb-9581347bf2d9
+2538PO Controller 1  and Controller 0 restart,Distributed Unit,15881daa-a52d-41c3-ab5e-f5057ca13fef
+"[SVR23A O-RAN][VFRO ORO Pilot Romania] CSFB LTE -> GERAN, the UE selects neighbor cell after beinf released by enodeb with the list of target arfcn including our SS cell 1013 arfcn",Distributed Unit,d5ee6873-0cdb-49fd-b877-56210a7516f1
+"Certificate namespace=vault, certificate=vault-server-tls is expiring soon on 2024-02-20 Alarm on CAAS for site 2956DU_O_C0300_ORAN",Distributed Unit,05033d8a-c5ac-4273-be50-badc5f83731b
+"[SVR23A O-RAN][VFRO ORO Pilot Romania] IRAT CS HO from UTRAN to GERAN for VFRO, VFRO reported no attempts seen on their side with our SS GSM cell",Distributed Unit,6f9e04e5-06d3-4798-ad31-a97d0c78fd43
+"DIL Alarm on Oru 0,1,2,3 Site 2396PO_V_CR1516_ORAN.The nphy is the test binary from 19.01",Distributed Unit,380ebc70-4a78-4eb1-be6e-d66711cdd1d5
+"[SVR23A O-RAN][VFRO ORO Pilot Romania] value reported for location (cNumID/null) in KPI family ""RRC Connection Establishment_23.A.0""",Distributed Unit,760ad02c-80f8-42f6-b925-9801e2ba9ab9
+[SVR23A O-RAN][VFRO ORO Pilot Romania] Alarm A5700027R occurred on RF2221D-20A,Distributed Unit,d7397c77-f1f6-49a1-92cb-598caa826a6e
+[SVR23A O-RAN][VFRO ORO Pilot Romania] 2587BO_O_CR0165_ORAN_GL- DPDK(nphy.xcg)  deactivated/sw-unit-activated,Distributed Unit,674efde8-2b9d-43dc-92dc-08cc66de3497
+[SVR23A O-RAN][VFRO ORO Pilot Romania] 2396PO_V_CR1516_ORAN_GL-DPP[0]/MIDHAUL_PORT[0] dpp port-down multiple time and auto recovered,Distributed Unit,3868ad9f-434c-4e5e-a9ea-7f671ea9347d
+"""DPDK(sumb.xcg)"" sw-unit deactivated/activated on 2396PO_V_CR1516_ORAN_GL, Only DPP1(High Band) LTE Cells (Cnum-51,52,53) Disabled/Enabled",Distributed Unit,3d1d2acd-75ee-40c7-9b75-bef5957ec90f
+SITES NOT RESTORED AFTER LSM MIGRATION- HSM013(FB01),Distributed Unit,8efd57c9-88ee-4af5-abff-e101510b5460
+eNB33 & 34 Samsung Down,Distributed Unit,2349430f-fc7b-411b-b0d7-44e1d9861304
+Unable to attach to 5G N28 when using 4G band 20 as anchor cell,Distributed Unit,6bdae454-54b0-4ace-b186-befa0d891aa6
+#XIA NRM - Reconciliation Job failure - Samsung cluster Sep23_LTN090 (eNB_8992),Distributed Unit,29ef33ec-edaa-4e6c-a9d5-077a7b767150
+SLR: 4.5.0_P1: E12 Correction : counter not updated as expected,Distributed Unit,8205292b-102e-41a9-8930-55316723d410
+"HGS021, LUA cyclic restart",Distributed Unit,ab913868-1823-49a7-9228-cc00162aa1d5
+Capacity based CAC activation with CALL_CAC_THRESH,Distributed Unit,0c3158f0-a02f-4563-af5f-467b2704c1d8
+Site Down Post SLR4.5 P1 Upgrade,Distributed Unit,59b4d142-ba41-463f-8e99-e73f43a95207
+SLR6.0.0 MOP - ALD script and eNB restart,Distributed Unit,a1af31ed-53b6-4a8f-92af-041b29022c53
+SLR4.5.0.P1 - CA 1800/800 -  ScellAdd not Rejected by CAC,Distributed Unit,b9133e1e-5cda-48eb-aaaf-d2d197569855
+DL-FSS: A-periodic CQI reports  are not visible once the TTI-Bundling gets activated for a VoLTE call in a DL-FSS enabled cell.,Distributed Unit,95827c6b-d04d-41af-b0b3-0a967bd05402
+"SLR6.0 FOA: ""RACH_OPT_ENABLE"" PLD is active on Cnum2 on some of the sites after SW upgrade",Distributed Unit,b2ccc318-82bf-4310-a67c-d27cc15f3dca
+Feature MRO-020-A pegs R9 and R10 counters,Distributed Unit,57c11dd9-1608-4513-8a29-b4883fb29d15
+Inter-DC S1-U Resiliency Testing: Error Cause,Distributed Unit,510b2b84-27ae-492e-a6ca-8a140106ce48
+Inter RAT ANR Neighbor creation,Distributed Unit,def4c9ae-70e3-4730-ad64-3f239ecaae78
+L-Band SLR7.0: SCell Reconfiguration modifying the P_A value on L1800,Distributed Unit,1c1d1146-c957-481f-904e-f78870eba514
+UAMA CA Fairness scheduling problem,Distributed Unit,9eff743a-e4ac-496d-8e8d-2788efac2a26
+"In RRH-CONF command, TX_ATTEN has 3 input in SLR7.0.0_P1 (TX_ATTEN : 12,0,0), however it has 2 input in Previous SLR7.0.0_P0 for TX_ATTEN : 12,0.",Distributed Unit,20da30f5-a0de-456c-9dc5-071de8b32982
+3UK_LTE_eNB_LUA_NAND firmware update failed,Distributed Unit,cac403b5-dc86-4749-a270-10bd1578d6a3
+"After enabling Decor (DCN) feature, Attach not working on target MME",Distributed Unit,722a0072-9085-420c-b5b1-357a590b5cde
+Active -DRX VoLTE Activation SR degradation after SLR8.0 Upgrade,Distributed Unit,aaf0384e-5026-4a9d-8c69-f8f8760513c2
+NokiaSeGW: X2 Setup is not working between Single Home and Multi Home SCTP eNBs.,Distributed Unit,086fa3a4-ab15-4eeb-b619-16b044c8882f
+3UK_LTE_WMS113_IMP DSP/SOC Restart intermittently,Distributed Unit,a60e84a9-0de6-4110-9e3e-390a105c5e3c
+3UK_LTE_Intra LTE Handover failure in all sectors of  MLO011,Distributed Unit,53f7a9a9-fd7d-4ac9-9c3b-ab899e0dc565
+Intervendor X2 Restoration NOT working,Distributed Unit,e843bf1b-512a-4b92-8933-1029eed7738b
+3UK_LTE_ Sites not restoring post LUA and UAMA card replacement,Distributed Unit,8d0122dd-03dc-4c2b-a33d-ced25c659f91
+OLN LAB: Huawei Mate30Pro / Mate20 X: No 5G Bearer retention:  RRCConnRelease(Other),Distributed Unit,0f12f9b2-4979-4d51-a6a3-a3fdc51fea86
+5G thp limited to 380Mbps in OLN LAB on 19A,Distributed Unit,b9d00ae2-a96e-404d-9348-24950369b49d
+Issue post SVR19A P1 +eFix upgrade where EN-DC does not work (local parameters unset by SW upgrade),Distributed Unit,f3f45057-b057-47b9-820f-9ac7165ebd01
+3UK_LTE_ Follow up RCA Investigation of TS2050FSProtocol Status Alarm ( Communication Fail : SNMP ) alarms on 156 Samsung sites,Distributed Unit,0019e009-c9c9-4b58-a860-c99a9954c894
+3UK_LTE_ Intermittent Service Off alarm post SLR 8.0_P_02 Upgrade_ SWS044,Distributed Unit,874b2c41-18a6-48d1-bf29-028655c6a1b5
+[SLR9.0 Orange Romania Cluj-Napoca][SRVCC LTE for GERAN counters missing and functionality validation],Distributed Unit,add37435-7c44-4d2e-b087-3d7e7e7a9c75
+ENB is releasing the call rrcConnectionRelease instead of initiating a handover,Distributed Unit,6d8ff92b-61cb-450d-8fe4-c4e0e6cf1224
+IPsec issue on Spartanska eNB in NetWorkS! Trial (Orange Poland/TMPL),Distributed Unit,f5454e13-3e7c-4f81-a889-a18aab0dea2f
+3UK_SLR8.0P02_FOA: LTE-SW1015 FPHO Accessibility performance degrades,Distributed Unit,3ec2e69b-58ef-4ac3-ad67-b2ff2696bc69
+3UK_LTE_MR0LSM03_KKS056_Unable to Modify the Serial Number in NE Information,Distributed Unit,e39fae7f-7c46-4f9e-9c9c-fb54b595f7bd
+LUPB Crash Observed on Sp,Distributed Unit,f7c4fee2-40e3-4836-b140-284872017215
+SVR20C Poland Trial: GNB80301 (&eNB80301) ecb fcb CPU alarms triggering Serivce off post DSS activation,Distributed Unit,77a2a4b5-de45-4dc6-8404-43b97dd73a4f
+OLN LAB: BH did not recover after SFP unplug/plug - power disconnect was required,Distributed Unit,05348248-adfd-455f-aff6-94d66b3a86a0
+[Play Poland Field Trial][SVR21B Orange Pkg][eNodeB][Incoming HO Failing on L2600 cells in execution phase],Distributed Unit,78ae91a6-574b-457d-87f6-6d3f86b45c22
+[Play Poland Field Trial][SVR21B Orange Pkg][eNodeB] Cell Num - ECI mapping,Distributed Unit,61ddf92f-5958-4788-a406-abc41796badd
+[Play Poland Field Trial][SVR21B Orange P1 Pkg][eNodeB][Degraded Random Access Success Rate and Increased Volume of RA preambles after swap from H/ vendor],Distributed Unit,3486e312-df0f-4a80-bd52-0fe0a177e258
+Site failed with loading error in LSM,Distributed Unit,25d8b93c-ce4b-4787-98a0-d32d4f3d0d4a
+AAB015- Cells down after SLR9.0 P1 SW upgrade,Distributed Unit,ce81f00c-5bde-4d9d-a051-184f9fe7f0fd
+[SVR21B P2][Tef UK Field Trial][QCI1 Erab Setup Failures due to ErabAddFailNbr_CpCapaCacFail],Distributed Unit,d78398db-68a6-468b-a274-581e7f5c7d2d
+Site down with Protocol Status Alarm and SNMP Alarms,Distributed Unit,34605197-a7d1-4db5-ae48-0f175d664ae5
+LK0049 down in a loop - secondary session never comes up,Distributed Unit,ad80471b-f0ae-45de-956c-af4684209531
+Site is going down when GPS signal is removed (no holdover time),Distributed Unit,1f421e39-9042-427f-a66f-4c84a1ae226e
+[SVR23A O-RAN][VFRO ORO Pilot Romania] PDCP counters not pegged on B3(dpp1) cells after LTE cells operation,Distributed Unit,d32bc180-36ad-42aa-9c4d-f04906ccbe34
+[SVR23A O-RAN][VFRO ORO Pilot Romania] Lower Uplink throughput KPI on ORO post-swap from H/ vendor,Distributed Unit,e473370a-f749-4328-a36a-17a519f42367
+[SVR23A O-RAN][VFES Create] 5G SA - ACPF NGSetupRequest message not including sD IE in s-NSSAI,Distributed Unit,459eaf4a-2a01-4a77-98f8-b5d123e271cd
+TAM028 & TAM039 : Request for PCAP Trace,Distributed Unit,1a7ca679-4038-48d0-a6c9-5b9a22cc718b
+GSM outgoing HO pegging as success and failure,Distributed Unit,4477f32e-c562-492e-9d0e-e8eb3923eef5
+Only ORU-5 Cells cNum 2 & 52 were disabled and enabled for 1 Min 23 sec for site 2396PO_V_CR1516_ORAN_GL,Distributed Unit,70141896-ecc7-4a93-bdff-84a77b2bd862
+"""One of power amplifiers in module has fault, unstable or broken."", alarm on /VOS/2392OL_V_BE1746_ORAN_GL/ORU[2]-ORU[2]/ta_3 and /VOS/2392OL_V_BE1746_ORAN_GL/ORU[0]-ORU[0]/ta_3",Distributed Unit,4a15e8b7-4474-4c4d-a6fb-cb4e140d5399
+DED002 - CELL SETUP FAIL/SERVICE OFF,Distributed Unit,0c701cb4-c627-4122-babd-ccea35cc587b
+RCA investigation of 75 Samsung sites which went down and restored (TS24217K),Distributed Unit,8ad74a0b-d0af-4642-9bdf-c7f0bf5e2e3c
+[SVR23A O-RAN][VFRO ORO Pilot Romania] preparation failures during S1 out attempts towards Samsung ENB,Distributed Unit,3d93a6f0-5fc7-4ae8-8f68-60d11d615191
+"""cim.xcg"" sw-unit deactivated/activated 3004TT_O_CR0383_ORAN_GL",Distributed Unit,131bc0e5-3633-4710-ba77-2164079337b5
+"[SVR23A O-RAN][VFRO ORO Pilot Romania] ConnEstabFail_RrcSigTo fails under family ""RRC Connection Establishment_23.A.0"" suspected single UE issue",Distributed Unit,912d68d9-fa92-4946-8d9b-c43a3d502b0f
+3UK MOCN: CSFBtoGERAN not ok for VFUK subscriber,Distributed Unit,8df3f410-e515-44fc-ab8f-fae040e95976
+[OFR][Intervendor] Lack of inter freq MO when UE connected to /E MCG with Samsung SCG,Distributed Unit,b14322c5-41d6-4f54-97ca-9b1937697c39
+MR0LSM02_RDL014_0_96823_Site Down,Distributed Unit,437e9459-32fd-4dd9-98c4-866d6d12c3ec
+SLR6.0.0 - DRB_CAC for Volte call handover is not respecting ARP priority for QCI-1,Distributed Unit,aeff6bb3-1060-4048-b105-52480587933e
+SLR4.5.0.P1 - Interfrequency Periodic ANR - ENB is delaying reportCGI removeLIST and NBR addition is not successful during VoLTE call establishment,Distributed Unit,8a3389c2-e721-44c6-bbb3-f32ad7cb1b00
+"SLR 6.0 + on tops - UAMA eNB fails Inter RAT PS HO on L800, after direct grow",Distributed Unit,9b3ce891-fd94-418f-8c7a-d7e9f4a6fcfc
+"SLR6.0 P0_02 The KPI ""VoLTE Quality"" is reporting wrong counter values",Distributed Unit,3130834d-fbaf-4ade-8049-88d120032376
+LTE-ME5009: Carrier Aggregation: Technical Questions,Distributed Unit,eaed6f56-2a96-4f4c-b868-ad20e2db22fc
+HTM004_ECP Function Fail_Cells Disabled,Distributed Unit,7095bf6e-0699-4837-998f-00c66925014c
+SLR6.0.0 – LTE1800to3GOffload - 3G offload is still being triggered on UEs when RATE_LB_TARGET set to 0,Distributed Unit,38ef06bd-34bc-4e14-b858-e485b9c529c9
+SLR6.0.0 – LTE1800to3GOffload - InterRAT ANR measurement and 3G offload measurement configurations are conflicting with each other,Distributed Unit,abaf0f24-cd44-40c6-bfef-f162b3e6b05e
+MRO feature counter HoToWrongCellRlfAfterHoAtSetup doesn't peg,Distributed Unit,a5d6d4d8-62eb-4a91-9ccf-f46bcc23b77d
+iRAT ANR change following SLR 6.0 upgrade,Distributed Unit,e1833277-4e42-4542-b345-91c53b177804
+Feature MRO-018-A pegs R9 and R10 counters,Distributed Unit,e515dafe-c973-45c7-ac1d-7791f597221c
+Feature MRO-015-A pegs R9 and R10 counters,Distributed Unit,9032c379-d5de-4b2c-a40f-a449b6fd11f6
+KD0049 is in a loop restart,Distributed Unit,2647f201-624f-4d92-bd77-cc2b58f1b9ca
+SLR6.0 CA: nRB-CQI is set to 1 with CA when it was set to 2 in SLR 4.5,Distributed Unit,d4aad350-d723-4957-8bd4-57fb90dac75e
+L-Band Integration on SLR7.0:Second reset of eNB needed for L1400 cells to be activated after L-Band config creation.,Distributed Unit,9aa2749a-8181-4790-add4-49701a16b889
+SFD058_SLR 6.0_Site Down _ Protocol Status Alarm(Communication Fail : PING & SNMP),Distributed Unit,532b84e7-bf02-4076-8acc-fb8fc949ef2a
+SPS doesn't trigger,Distributed Unit,94f333b8-8754-4c94-84b0-b023f802e182
+3UK_SLR 6.0 _ LUA_ HAB008 _ Sleeping Cell Issue,Distributed Unit,deb4cfd3-092a-40cb-a56b-4929c8717309
+Verification of ping pong optimization component CIO change not triggering(UAMA),Distributed Unit,65f0c15c-d73c-4aba-85d2-06ae5caa3b50
+CRS-IC - RRC Reconfiguration message does not configures SCell related CRS-AssistanceInfoList-r13 IE on CRS-AssistanceInfo-r11 supported device regardless SCell is active or not,Distributed Unit,830521af-ff79-4a37-b1db-d9358bc8d06b
+SLR7.0_r01 Fail to delete the Passive Package,Distributed Unit,f8b42129-f49c-4b37-9323-8d2df30cbe68
+3UK_LTE_SLR 8.0_ Sleeping cell issue,Distributed Unit,b563a085-2d72-4df5-ba7a-75a78aa2ea91
+3UK_LTE_SLR 7.0_eNB loading error and there is no backup file at LSM end,Distributed Unit,6877a808-d206-4b55-9d72-314c862745b4
+3UK_LTE_SLR 8.0_ Sleeping cell issue observed post PCI_eNB reboot,Distributed Unit,c0ed7f86-512e-41eb-8e59-4bfcd93d8a0e
+B1 event sent but NR carrier not added -,Distributed Unit,4973ce07-92ba-4d4e-b8bb-e6e9b900b110
+"VoLTE call drop with BTE from MME reason 503 ""Session released - service based local policy function aborted session""",Distributed Unit,45278bc5-09e7-4ee5-b317-656562505a73
+[SLR9.0 P1+efix][Orange Romania Cluj-Napoca][25% decrease in QCI1-VoLTE ERAB Setup attemp post patch],Distributed Unit,767089f4-1e73-470c-93a3-e1f6881f5d07
+[SVR19A Orange Romania Cluj-Napoca][ SgNB Initiated SgNB modification fails sometime with cause CauseX2apProtocolMessageNotCompatibleWithReceiverState],Distributed Unit,14e96513-4e9a-4b6a-8b91-51fc442a87c1
+3UK_LTE_ Site Down with intermittent Authentication Request Fail issue_RHM033_BM0LSM04,Distributed Unit,960432ac-4d78-4c9b-bdea-4b218d3e8bde
+3UK_LTE_MR0LSM02_GLC163_ Site failing intermittently due to STORAGE ERROR,Distributed Unit,3fdc2e21-8d3f-413d-9474-1e6b02f8f911
+3UK_LTE_Nokia SecGW S1AP NAS Non Delivery problem,Distributed Unit,75f4389f-7d8d-46df-a603-4f4a6279c2ed
+[SVR20A][Networks! Poland][very high Increase in QCI abnormal release number post eccb patch with cause ],Distributed Unit,3c19cecd-8486-4c46-bec8-511924fabcfc
+[SLR9.0.0/SVR19A P2][Orange Romania Cluj-Napoca][EN-DC Not working for ZTE CPE device],Distributed Unit,66ff7a37-0181-4eda-8d8e-1982d2ae6961
+X2Blacklist NOX2=TRUE entries are not being deleted when X2 NRT is full,Distributed Unit,2c4737f5-b35e-4678-85fb-b02799a22105
+SVR20C Poland Trial - Issue with site restart 40301OC,Distributed Unit,455023fe-3a82-4500-92d4-b4de50f1c212
+3UK_LTE_Samsung_HH0LSM04_Multiple sites reporting Software NOK status,Distributed Unit,6876e86d-aef9-4def-9690-09812fbbce86
+Sleeping Cell detected after lupb crash,Distributed Unit,cb0c084e-7e0a-4580-ab45-c44bd50bf054
+[Play Poland Field Trial][SVR21B P2 Orange Pkg][eNodeB][QCI1 ERAB Setup Failures Due to CAC Failures],Distributed Unit,37cbd60e-aff0-4100-9e52-c39ed4ee8c26
+[Play Poland Field Trial][SVR21D Play Pkg][eNodeB][FGR-LC0701 LTE anchor selection for EN-DC not triggered as expected],Distributed Unit,e033f72f-2a32-457e-baf2-8789a67c9977
+No traffic carried on gNB since recorved from Comm-Fail Alarm:Ping/NETCONF,Distributed Unit,ed7efa34-0d0e-4d4b-a98e-aeb1927163e2
+InterX2InPrepFail_X2apCuFail increase during rollout of M55 P2 SW,Distributed Unit,f20d38e6-a060-44d5-be0f-5c21f06d1a46
+[SVR21B P2][Tef UK Field Trial][CMAS WRWarningRequestFail on 9th of March '22],Distributed Unit,f21ae74d-a32f-4629-9761-a8092ae9242a
+3UK LTE- Voice Retainability drop on network level,Distributed Unit,77345cec-a337-42dc-931f-6e5fcf5f11aa
+Sites observed increase in S1 Fail during “IND MME Communication Fail” alarm,Distributed Unit,a9e9f099-88f7-4767-bcf9-9588272c01be
+3UK Security/PEN Testing: Recovery MOP after eNB default Password change,Distributed Unit,16c56e8d-99f8-4cad-88fe-3d433a670582
+"Site down, long pending case",Distributed Unit,e27e80cd-1d73-4034-8094-ae74ba5a79b7
+"Site down, another long pending case",Distributed Unit,504cecdf-747e-478c-a6ec-e3d0e4491f54
+Certificate alarm on enB,Distributed Unit,60d67cd0-05d1-4cb8-a6bf-9a7e05bc6169
+EST008- Sleeping cell issue on Sec 3(CNum8),Distributed Unit,c4d63da1-1585-4882-8f88-bdcbdd34886c
+Improvement in Samsung VoLTE Silent call UL KPI since 17 April onwards,Distributed Unit,db07ed92-3fc2-45e5-af03-1e7e69f30a1b
+TEST CASE---IGNORE,Distributed Unit,5f3ad6ff-2517-442e-bc4e-9a47b26297db
+Test ticket,Distributed Unit,ce8d10f1-19e1-41b1-b714-c2cea9765a23
+[SVR23A O-RAN][VFRO ORO Pilot Romania] SW Re-fort gtpb.lte.xcg,Distributed Unit,7b580f93-22b4-425a-b5bc-e7a0dfb8eb96
+[SVR23A O-RAN][VFRO ORO Pilot Romania] S1 Setup failures with causes S1ConnEstabFail CpCcFail / S1ConnEstabFail S1apSigFail,Distributed Unit,fb8ed2da-1a2b-4813-ac15-51382a9a07d4
+AFD001 - Support required for SW Upgrade and PLD,Distributed Unit,b1f21590-2a13-4039-b14d-89202de85feb
+LAM037 - RRH Digital Input low Alarm,Distributed Unit,f0d31e67-14a9-4a32-abbb-242ec1184bfa
+[SVR23A O-RAN][VFRO ORO Pilot Romania] No mobility at pre-activation for 3004TT_O_CR0383_ORAN_GL  1. Issue Definition Pre-activation of the site 3004TT_O_CR0383_ORAN_GL was done early morning of 16th,Distributed Unit,aafa1d7f-802e-4653-b747-34bbe35e1500
+"[SVR23A O-RAN][VFRO ORO Pilot Romania] Poor RRC Setup Success Rate on ORO 2587BO_O_CR0165_ORAN_GL cell-num = 10, suspect single user",Distributed Unit,0b4e0628-835a-4887-afb8-834f7f9085e8
+[SVR23A O-RAN][VFRO ORO Pilot Romania] Declare neighbor relations with Yang not possible,Distributed Unit,85ef3fdc-1644-4e9c-b795-5daadfd2bed1
+Hard coded user credential on eNB,Distributed Unit,2ef98aba-5eda-4a07-9dac-8b504fbf65e8
+DB Index of SYSIP is not as per standard format for few sites,Distributed Unit,4441df0e-3386-4b57-b177-27b708081759
+Internal TS24511HeNB11 : : Preprod :: [eNB_1048511] check ip duplication issue,Distributed Unit,62c6aaf6-456d-484c-b1a9-3e0b45c088d5
+"[SVR23A O-RAN][VFRO ORO Pilot Romania] Feature LTE-SO0802 The feature kicks-in as planned & working for the cells except for 2396PO_V_CR1516_ORAN_GL, cell-num = 51",Distributed Unit,5c62ffb5-aa56-463f-a783-e661bf3d4e95
+2396PO_V_CR1516_ORAN_GL-DPP[0]/MIDHAUL_PORT[0] dpp port-down Alarm,Distributed Unit,16b1b31a-f074-478e-9083-61db6064db79
+LTE-SW5001 Multi-PLMN - 2nd PLMN not broadcast in SIB1,Distributed Unit,0a9471ba-ce3e-4a13-84f2-c3912ed49ec9
+LTE Geolocation - plmn not reported accordingly in MORAN configuration,Distributed Unit,8c24d3fa-c446-4a77-9e5e-c9e4624b4752
+Support required to investigate on NTP Failure alarm  in FB01 sites(527 site),Distributed Unit,b4d8009c-165e-4a2b-97d9-a794747d052c
+MHA Cutover Issues,Distributed Unit,f5630765-6d2b-4f91-bbeb-f946d08778ee
+3UK [MOCN ]MME sends UeContextReleaseCommand/ErabReleaseCommand = Miscellaneous but eNB counts 'Abnormal';  change to 'Normal' ?,Distributed Unit,5fe87d04-721f-4c66-b0e4-47f4a7241352
+fan is not powered and causes the site to cyclic restart,Distributed Unit,2f586d86-72ff-47da-a3df-cb6a44b0abb6
+X2 Auto delition NOT working,Distributed Unit,4e87c62e-8160-4297-8a5d-920e6bfb537c
+SLR6.0 - Inter-frequency periodic ANR is not triggered in SLR6.0 SW,Distributed Unit,2a75c465-5992-4a1f-abba-b5b89cb00021
+SLR6.0 (F(e)) ICIC and Samsung/3gpp ICIC feature interaction,Distributed Unit,90fc9931-30eb-469e-9623-50e3bf6139cd
+SLR6.0.0 – LTE1800to3GOffload -  LB_EXIT_DELTA_THRESHOLD does not have any effect on 3Goffload feature,Distributed Unit,338cea25-b19d-4365-8234-03d7cef56a8d
+SLR 4.5.0 : CA : aPeriodic Reports sent with MCS29 increment incorrect counter,Distributed Unit,20dcbd09-be6f-43ed-a181-9796258bd1e3
+L2100 - Spectrum Analyzer is not functioning for L2100 cells on LUA HW,Distributed Unit,ee7d8ec3-bb91-46a3-98c8-0b6fdeb87c72
+eNB doesn't send RRC Paging message for MT call,Distributed Unit,8c0af49c-1ec7-4fde-8dcb-1401ea905e2d
+3UK_SLR 7.0_eNB_Site lost connectivity during the SLR 6.0 P1 upgrade restart for SLR 7.0 update,Distributed Unit,670d6ad8-9f84-43ff-9b0d-3e6f858770d4
+SLR7.0_P0_03 Low TX_RF Power on eNB cells,Distributed Unit,c5e6cdb3-ff10-4453-b1e6-9b5802e3ad69
+MRO Counters (PingpongHandover&PingpongHandoverVoice) pegged both for Multi-RBs case,Distributed Unit,276ff01b-cfc3-4ab5-997d-d859a152ded3
+Verification of ping pong optimization component CIO Fallback,Distributed Unit,640eaf03-6bb9-4195-a349-2c072c230bc9
+DUAL LUA sites restarting,Distributed Unit,fa252d1e-c82f-40dd-b2a9-67838c877ef8
+TTI-B Activation SR and De-activation SR degraded after SLR8.0 upgrade,Distributed Unit,48ef1bee-d434-4e3b-9efd-5e38d158f730
+Nokia SeGW PKI - SH-SCTP - Looks like eNB is behaving MH-SCTP towards legacy MMEs even with no secondary MME address configured,Distributed Unit,bd69c374-733f-4816-947a-cc30d6564ea8
+SCTP-MH behaviour to Maya MME unexpected,Distributed Unit,87d4f57b-2e8f-4a97-8c1b-6e864e74c25f
+The first SCTP INIT to a Legacy MME is sent via VPN1 when it should be VPN0,Distributed Unit,eacd68cd-0a49-4290-add8-8ef7091802c9
+Maya SH/MH SCTP: eNB 1st SCTP_INIT behaviour is not trying eNB_IP0 (VPN0) to MME_IP0,Distributed Unit,8e5b52bf-4bbc-4b28-978e-2218eb9557a8
+FOA Trial:- UL AMC Enhancement SLR7 Feature (LTE-3318),Distributed Unit,897b4794-f89a-49fa-9389-bed186b0678c
+Data stall following SCGfailure,Distributed Unit,ae0f150c-827c-456c-bd12-66781fac2c89
+VoLTE MT call sometimes failed because of the server response in EN-DC,Distributed Unit,f29e074c-b61b-4b79-8169-55ba3b08c833
+503 service unavailable during VoLTE MO call,Distributed Unit,1369299e-accf-46a7-82b0-be40c8863c08
+Inter-RAT ANR NR fails to add nbrs,Distributed Unit,33d5d9da-ebd7-4c68-a49d-95a738157901
+SCTP port configuration,Distributed Unit,50d6a44d-6590-4bf2-a9a6-6cb5e61be46c
+OLN LAB:  2x 5G NR UEs not able to have 5G service in the same cell,Distributed Unit,d820e416-1a79-4dbd-98a1-9d826c906b5d
+Intermittent CPE connection and throughput not exceeding 500mbps on Bolzano sector 1 and sector 3,Distributed Unit,08836d10-bb9d-4d47-9b29-1af2bd1ce3ac
+Low DL throughput see on new sector in Milan AU - MIN005,Distributed Unit,a3fd8bd7-504b-4aa4-af08-84e19bd9056f
+Poor UL throughput on 5G NR (SVR19A) observed by Orange Romania on LG Cayman device,Distributed Unit,812804d8-b2ff-404b-976f-ce4746fd7099
+"SVR20C Poland Trial: Low DL TP during 4CA/3CA testing, when 2.1 GHz is chosen as a Primary Cell: 30 Mbps",Distributed Unit,92aed183-fbd2-4785-b638-b9ccd807a33c
+SVR20C Poland Trial: SE Core issues observed on some eNBs in NetWorkS! Trial,Distributed Unit,84293859-5b5d-4dd6-a06f-bbf1b8086124
+TEST,Distributed Unit,00b5f2ad-6cd0-4b43-9414-4d1d2c0a6514
+[SVR21B][Play Poland trial] TP degradation on L2100 when DSS is enabled,Distributed Unit,ceb3699d-b81e-41f6-aaa6-3768d22870f3
+Unified PF Scheduler for CA througput clarification on UAMA,Distributed Unit,abf43ebb-9000-473a-bee1-31c24ff6ae7b
+Site Failed with Loading Error in LSM,Distributed Unit,9ce9c86c-ad6b-4f55-ac76-25454bd00494
+Site failed with loading error in LSM,Distributed Unit,c8f49ed6-b245-4601-b1e2-e9df942845d4
+scell deactivation not occuring after CQI =1 is received,Distributed Unit,587915c0-9e17-4f42-80f6-7a7de05bf242
+ENB Fatal Errors after recovering from Network Connectivity Issue after Software Upgrade,Distributed Unit,12a1f418-6df5-42e6-abc2-93cbc67c0a5c
+SLR 9.0 P1 Increase in RRE volume and DCR (mostly LUA1),Distributed Unit,18900c1e-bda5-469d-b25c-4f750965f6da
+[SVR21B P2][Tef UK Field Trial][ScG failure after the endc addition on first 5G site on-air],Distributed Unit,a071cb5f-2a2e-4866-bc69-e3948c577e7a
+RoHC context continuation function not working,Distributed Unit,a8f06e13-d12b-4689-8f6a-81a1785243f1
+Configuration Management (CM) file of site LPL005 is not getting generated properly,Distributed Unit,b557e18b-3c0a-41fe-9ecd-a4ebc5c4fe56
+RCA investigation of 86 Samsung sites which went down and restored,Distributed Unit,c96e5fe5-0298-4b39-88ea-2121101f8529
+VF Lab test CMAS issue,Distributed Unit,2e6d5373-9731-42e3-8a22-81e83dd9a14d
+Test ticket,Distributed Unit,108b6fcd-7b1b-4092-a6c2-39e419cbed94
+3UK Testbed:  ENB18 Cyclic Reboot:,Distributed Unit,06c06ffc-6f45-4c4a-9fe7-a12ffe1e0fa3
+SSH login issue,Distributed Unit,eff5e4f4-7fc0-4ab7-8ac2-97e171bd3b2b
+VF-UK Lab – PearTree House // SVR23A-R0100 // VM02 ENDC n78 Not Working,Distributed Unit,66141213-8217-43fc-b714-9baba2965eb8
+CSFB to 2G MO & MT setup time above threshold of VF & VMO2,Distributed Unit,42f745f8-1a3b-4f59-9fa2-e4eb9135fa24
+[SVR23A O-RAN][VFRO ORO Pilot Romania] gtpb sw crash multiple time but Coredump not created,Distributed Unit,f3745b88-1a83-4b83-95df-b2d8efbd8804
+[SVR23A O-RAN][VFRO ORO Pilot Romania] RSRP/RSRQ/SINR degradation after swap on ORO B20 cells,Distributed Unit,cf479346-1cc7-4014-b9b9-1dd88b3cbe0f
+"2396PO_V_CR1516_ORAN_GL ORU[5]-ORU[5]/ta_1/1002  ""When return Loss(returned power from antenna caused impedance mismatch)is lower than minor alarm threshold."" alarm",Distributed Unit,90e07570-79ae-4217-b5e6-eceab0e56eba
+TYN083 - Site is intermittent with Protocol alarms,Distributed Unit,a87e9364-69cb-4808-9e1a-7b2a8883b85f
+[SVR23A O-RAN][VFRO ORO Pilot Romania] CCO triggered when PSHO to GERAN is activated for data calls,Distributed Unit,d29664e3-7e5f-4f04-8198-00778a926347
+RCA investigation of 187 Samsung sites which went down and restored,Distributed Unit,eeb88276-adf6-4376-81ae-169212a0a5b2
+"One of power amplifiers in module has fault, unstable or broken. alarm on /VOS_LAB/6012TS-TEST_ORAN_GL/ORU[0]-ORU[0]/ta_3",Distributed Unit,f216fd4e-1673-4776-b11e-7fe9627730bd
+Nphy crash observed Continiously on Site /VOS/2392OL_V_BE1746_ORAN_GL,Distributed Unit,ae5384d5-af05-4bd5-a8d5-8446f314058f
+/VOS/2587BO_O_CR0165_ORAN_GL/ORU[6]-ORU[6]/updownconverter0/1008 Alarm,Distributed Unit,8162ab2e-d95c-4b4f-8abd-788a4e66be51
+DED002 - CELL SETUP FAIL/SERVICE OFF (Ref #TS24402D),Distributed Unit,74ca3425-5410-44fb-aa17-8329b7c04861
+Sites are intermittent with Protocol Status Alarm ( Communication Fail : PING ),Distributed Unit,511e1942-17c1-418d-b4c6-05fc2ec6b0f1
+Significant VoLTE DCR increase after EVS24.4 activation,Distributed Unit,e19739b9-0b85-48e9-b4ff-082e5d0c31b9
+CMAS Feature not working as expected,Distributed Unit,c358019a-b768-4ed2-ba2e-a8f3b9928989
+RAB005 - Site availability dropped on 13 February & observed X2 HO Fails,Distributed Unit,ccf69fe2-10f5-4c01-95fc-d60c4c50eae3
+Lab CMAS Issue,Distributed Unit,ca3faced-4064-4a98-9c12-68a56e4a072d
+"3UK/VFUK MOCN:  PLMN,1 Subscriber incorrect S1HO attempt to non MOCN sites",Distributed Unit,b70ce2a5-8ecc-437c-b02d-0fecb4a4223a
+VoLTE HOSR Samsung KPI drop since 22/10/2025 06:00 INC000097910110,Distributed Unit,d98e507c-da6f-4b45-9309-4a0e3d859025

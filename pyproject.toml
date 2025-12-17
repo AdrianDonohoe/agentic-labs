@@ -3,7 +3,7 @@ name = "agentic-labs"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.12, <3.14"
 dependencies = [
     "pydantic>=2.12.2",
     "codeium-jupyter>=2.1.2",
@@ -23,6 +23,11 @@ dependencies = [
     "pytest-playwright>=0.7.1",
     "flask>=3.1.2",
     "notebook>=7.5.0",
+    "gradio>=6.0.1",
+    "sentence-transformers>=5.1.2",
+    "langchain-huggingface>=0.3.1",
+    "contractions>=0.1.73",
+    "pyspellchecker>=0.8.4",
 ]
 
 [dependency-groups]
