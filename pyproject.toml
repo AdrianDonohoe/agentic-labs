@@ -9,7 +9,6 @@ dependencies = [
     "codeium-jupyter>=2.1.2",
     "datasets>=4.0.0",
     "dotenv>=0.9.9",
-    "langchain-community>=0.3.27",
     "langchain-google-genai>=2.1.6",
     "langchain-openai>=0.3.27",
     "langchain-sandbox>=0.0.6",
@@ -28,6 +27,9 @@ dependencies = [
     "langchain-huggingface>=0.3.1",
     "contractions>=0.1.73",
     "pyspellchecker>=0.8.4",
+    "mcp[cli]>=1.25.0",
+    "langchain-mcp-adapters>=0.2.0",
+    "langchain>=0.3.27",
 ]
 
 [dependency-groups]
