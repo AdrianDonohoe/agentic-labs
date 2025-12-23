@@ -1,0 +1,6 @@
+property_id,price,area_sqft,bedrooms,bathrooms,city
+1,150000,1200,3,2,New York
+2,250000,1800,4,3,Los Angeles
+3,180000,1400,3,2,New York
+4,300000,2200,5,4,Chicago
+5,120000,1000,2,1,Houston
